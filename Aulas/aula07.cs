@@ -1,6 +1,6 @@
 using System;
 
-class Aula06{
+class Aula07{
 
     static void Main(){
         // Atribuir tipo,valor
