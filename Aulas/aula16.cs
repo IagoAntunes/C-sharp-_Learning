@@ -1,6 +1,6 @@
 using System;
 
-class Aula15 {
+class Aula16 {
 
     static void Main(){
         int tempo=0;
