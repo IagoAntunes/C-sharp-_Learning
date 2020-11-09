@@ -1,6 +1,6 @@
 using System;
 
-class Aula21 {
+class Aula22 {
 
     static void Main(){
 
@@ -15,15 +15,6 @@ class Aula21 {
         foreach(int n in num){
             Console.WriteLine(n);
 
-
         }
-
-
-
-
     }
-
-
-
-
 }

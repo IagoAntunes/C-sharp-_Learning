@@ -10,11 +10,9 @@ class Aula16 {
 
         Console.Clear();
 
-
         Console.WriteLine("Belo Horizonte/MG á Vitoria/ES");
         Console.WriteLine("Escolha o Transporte:\n[a]Avião\n[c]Carro\n[o]Onibus");
         escolha = char.Parse(Console.ReadLine());
-
 
         switch(escolha){
             case 'a':
@@ -48,6 +46,5 @@ class Aula16 {
             Console.Clear();
             Console.WriteLine("Fim do Programa");
         }
-
     }
 }

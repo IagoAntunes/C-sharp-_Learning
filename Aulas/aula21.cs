@@ -14,8 +14,6 @@ class Aula21 {
         string senhauser;
         int tentativas=0;
 
-        
-
         do{
             Console.Clear();
             Console.WriteLine("Digite a Senha");
@@ -24,8 +22,4 @@ class Aula21 {
         }while(senha != senhauser);
         Console.WriteLine("Logado com Sucesso!\nTentativas:{0}",tentativas);
     }
-
-
-
-
 }

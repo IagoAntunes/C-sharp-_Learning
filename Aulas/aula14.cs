@@ -41,10 +41,6 @@ class Aula14 {
                 resultado = "Reprovado";
             }
         }
-
-
-
         Console.WriteLine("Nota: {0}\nResultado:{1}",res,resultado);
-
     }
 }
