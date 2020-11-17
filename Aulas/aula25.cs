@@ -3,10 +3,11 @@ using System;
 class Aula25 {
 
     static void Main(){
-        int num = 10;
+        int num = 10,num2=10;
         dobrar1(ref num);// ref = REFERENCIA
+        dobrar2(num2);
 
-        Console.WriteLine(num);
+        Console.WriteLine("NUM1 = {0} , NUM2 = {1}",num,num2);
 
     }
     // Passagem por Referencia
@@ -16,6 +17,5 @@ class Aula25 {
     // Passagem por Valor
     static void dobrar2(int valor){
         valor *=2;
-
     }
 }
