@@ -1,5 +1,5 @@
 using System;
-
+//Metodos para Arrays
 class Aula23 {
 
     static void Main(){

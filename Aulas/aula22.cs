@@ -1,5 +1,5 @@
 using System;
-
+// LOOP FOREACH
 class Aula22 {
 
     static void Main(){

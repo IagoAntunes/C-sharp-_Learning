@@ -1,5 +1,5 @@
 using System;
-
+// Sobrecarga de Construtores
 public class Jogador {
 
     public int energia;

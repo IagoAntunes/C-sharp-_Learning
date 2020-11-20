@@ -1,5 +1,5 @@
 using System;
-
+//Classes e Objetos
 public class Jogador {
 
     public int energia=100;

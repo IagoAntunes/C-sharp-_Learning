@@ -1,5 +1,5 @@
 using System;
-
+//Argumento Out
 class Aula26 {
 
     static void Main(){
