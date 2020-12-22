@@ -16,9 +16,5 @@ class Aula05{
         //int res = 10 + 5;
 
         Console.WriteLine(res);
-
-
-
-
     }
 }

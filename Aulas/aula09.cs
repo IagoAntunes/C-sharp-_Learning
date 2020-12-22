@@ -1,5 +1,5 @@
 using System;
-
+//Operação de Bitwise
 class Aula09 {
     static void Main(){
         // Deslocamento para a esquerda vai Dobrar o valor

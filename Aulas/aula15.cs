@@ -1,5 +1,5 @@
 using System;
-
+// Switch Case
 class Aula15 {
 
     static void Main(){
@@ -36,15 +36,5 @@ class Aula15 {
         }else{
             Console.WriteLine("Para o transporte escolhido o tempo é {0} minutos",tempo);
         }
-
-
-
-
-
-
-
-
-
-
     }
 }

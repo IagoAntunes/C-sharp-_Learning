@@ -6,7 +6,4 @@ class Aula04{
         int num2=0;
         Console.WriteLine(num);
     }
-
-
-
 }

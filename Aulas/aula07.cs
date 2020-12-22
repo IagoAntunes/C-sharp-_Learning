@@ -1,7 +1,6 @@
 using System;
-
+//Constantes
 class Aula07{
-
     static void Main(){
         // Atribuir tipo,valor
 
@@ -9,14 +8,6 @@ class Aula07{
         const string canal=" Canal ABC";
         const double pi=3.14;
 
-
         Console.WriteLine("Canal{0}\nPi:{1}",canal,pi);
-
-
-
-
-
-
-
     }
 }

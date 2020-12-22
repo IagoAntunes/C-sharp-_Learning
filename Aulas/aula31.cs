@@ -22,7 +22,7 @@ class Inimigo{
     public string nome;
     public Inimigo(string n){
         alerta = false;
-        nome = n;
+        nome = n;147
     }
     public void info(){
         Console.WriteLine("Nome:{0}",nome);

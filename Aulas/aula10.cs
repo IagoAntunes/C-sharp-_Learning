@@ -1,5 +1,5 @@
 using System;
-
+//ENUM
 class Aula10 {
     enum DiasSemana{Domingo ,Segunda , Terça , Quarta , Quinta, Sexta, Sabado};
     static void Main(){

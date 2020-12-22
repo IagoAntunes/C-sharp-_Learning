@@ -1,5 +1,5 @@
 using System;
-
+//Lendo valores no Teclado
 class Aula08 {
     static void Main(){
         int v1,v2,soma;

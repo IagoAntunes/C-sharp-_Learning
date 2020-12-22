@@ -15,11 +15,7 @@ class Aula06{
         Console.WriteLine("Val.Compra....{0,15:c}",valorCompra);
         Console.WriteLine("Lucro.........{0,15:p}",lucro);
         Console.WriteLine("Val.Venda.....{0,15:c}",valorVenda);
-        
-
-
-
-
+    
         /* 
         int n1=10,n2=20,n3=30;
         \n  \t
