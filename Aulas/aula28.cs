@@ -12,7 +12,7 @@ class Aula28 {
         Jogador j2=new Jogador();
         Jogador j3=new Jogador();
 
-        j1.energia = 50;
+        j1.energia = 50;git p
         Console.WriteLine("Energia do Jogador 1: {0}",j1.energia);
         Console.WriteLine("Energia do Jogador 1: {0}",j2.energia);
    }

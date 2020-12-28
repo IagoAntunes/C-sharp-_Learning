@@ -18,7 +18,7 @@ public class Jogador {
     }
 
         public Jogador(string n,int e){
-        energia = 100;;
+        energia = e;
         vivo = true;
         nome = n;
     }
