@@ -14,7 +14,17 @@ class Aula22 {
 
         foreach(int n in num){
             Console.WriteLine(n);
-
         }
+        /*
+        var nomes = new List<string>() { "Jose", "Tania", "Pedro" };
+        foreach (string nome in nomes)
+        {
+            if (nome == "Tania")
+            {
+                continue;
+            }
+            Console.WriteLine(nome);
+        }
+        */
     }
 }

@@ -1,5 +1,5 @@
 using System;
-
+// While
 class Aula20 {
 
     static void Main(){

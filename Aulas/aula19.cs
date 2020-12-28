@@ -1,5 +1,5 @@
 using System;
-
+//FOR
 class Aula19 {
 
     static void Main(){
@@ -16,7 +16,7 @@ class Aula19 {
             num[i] = int.Parse(Console.ReadLine());
         }
         for(i=0;i<num.Length;i++){
-            Console.WriteLine("num = {0}",num[i]);
+            Console.WriteLine("Num{0} = {1}",i+1,num[i]);
         }
     }
 }

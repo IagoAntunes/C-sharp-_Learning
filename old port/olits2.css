@@ -1,0 +1,1259 @@
+*{
+    margin: 0;
+}
+
+#titulos {
+
+    width:100%;
+
+    height:50px;
+
+    background-color:#212529;
+}
+
+#opcoes li{
+    display: inline-block;
+    justify-content: center;
+    text-align: center;
+
+    padding: 2px;
+    margin-top: 4.6px;
+    font-size: .8rem;
+    font-family: "Raleway",sans-serif;;
+
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    color: white
+}
+
+a:hover{
+    text-decoration: underline;
+    color: #f48c06;
+    transition: 1s;
+}
+
+#opcoes #nome{
+    text-align: start;
+    justify-content: start;
+    font-size: 1.3rem;
+    color: #ffba08;
+}
+
+#pagina {
+
+    width: 100%;
+    height: 90vh;
+
+    background-color: #03071e;
+
+    border-bottom: 1px solid #ffba08;
+}
+
+#apresentacao{
+    width: 50%;
+    max-width: 100vw;
+    height: 40vh;
+}
+
+#imagem2{
+    width: 50%;
+    height: 20vh;
+}
+
+#imagem2 img {
+    width: 450px;
+    height: 400px;
+
+}
+
+#pagina h1 {
+    font: 400 2rem Raleway,sans-serif;
+
+    color: #ffba08;
+}
+
+#pagina h2{
+    font: 400 2rem Raleway,sans-serif;;
+
+    color: rgba(98, 98, 98, 0.897);
+}
+
+#botao {
+    justify-content: center;
+    margin-left: 6.1rem;
+    margin-top: 2rem;
+    border: 0;
+
+    font: 700 1.2rem "Raleway",sans-serif;
+    
+    width: 15rem;
+    height: 3rem;
+
+    cursor: pointer;
+    background: #ffba08;
+    border-radius: 10rem;
+}
+#botao:hover{
+    background: #fbcc54;
+    transition: 1s;
+    width: 20rem;
+    height: 4rem;
+}
+
+
+
+.sobre1{
+    display: flex;
+
+    border-radius: 5rem;
+
+}
+
+#sobre {
+
+    width: 60vw;
+    height: 450px;
+
+    border: 0;
+
+}
+
+#sobre h1{
+    text-align: start;
+    font: 700 34px "Raleway",sans-serif;
+
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+
+#sobre p{
+    text-align: start;
+    font: 300 1rem "Open Sans",sans-serif;
+
+    line-height: 1.3rem;
+    padding: 2rem;
+}
+
+
+#imagem1 {
+    width: 50vw;
+    height: 1px;
+}
+#imagem1 img{
+    margin-left: 2rem;
+    margin-bottom: 20rem;
+
+    width: 500px;
+    height: 400px; 
+}
+
+#cv {
+    margin-left: 4rem;
+    border: 0;
+
+    font: 700 1.3rem "Raleway",sans-serif;
+    
+
+    width: 20rem;
+    height: 3rem;
+
+    background: #e85d04;
+    border-radius: 3rem;
+
+    cursor: pointer;
+}
+
+#cv:hover{
+    background: #f87321;
+    transition: 1s;
+
+    width: 23rem;
+    height: 4rem;
+}
+
+#tecnologias {
+    height: 950px;
+    padding: 70px;
+    background: #03071e;
+}
+
+#tecnologias #tec-text{
+    font: 100 13px Raleway,sans-serif;
+
+    text-align: center;
+}
+#tecnologias p{
+    font: 600 30px Raleway,sans-serif;
+
+}
+
+#habilidades{
+    display: flex;
+    justify-content: center;
+
+    width: 100%;
+    height: 460px;;
+    border-radius: 1rem;
+    margin: 28px;
+    
+    flex-wrap: wrap;
+    
+}
+#habilidades img{
+    width: 25%;
+    height: 25%;
+
+    display: inline-flex;
+
+    margin-left: 5.5rem;
+    margin-top: 1rem;
+}
+
+
+
+#habilidades h1{
+    font: 900 18px "Raleway",sans-serif;
+    text-align: center;
+
+    color: #03071e;
+
+}
+#habilidades p {
+    font: 100 1rem "Open Sans",sans-serif;
+
+    text-align: center;
+
+    line-height: 28px;
+    padding: 1.2rem;
+
+}
+
+#html {
+
+    width: 230px;
+    height: 270px;
+    border-radius: 1rem;
+    margin: 0 1rem 2rem 1rem;
+    background-color: rgb(255, 255, 255);
+}
+#html:hover{
+    width: 250px;
+    height: 290px;
+
+    transition: 1s;
+
+}
+
+#css{
+    width: 230px;
+    height: 270px;
+    border-radius: 1rem;
+    margin: 0 1rem 2rem 1rem;
+
+    background-color: rgb(255, 255, 255);
+}
+#css:hover{
+    width: 250px;
+    height: 290px;
+
+    transition: 1s;
+}
+
+#JavaScript{
+    width: 230px;
+    height: 270px;
+    border-radius: 1rem;
+    margin: 0 1rem 2rem 1rem;
+
+    background-color: rgb(255, 255, 255);
+}
+#JavaScript:hover{
+    width: 250px;
+    height: 290px;
+
+    transition: 1s;
+}
+
+#C{
+    width: 230px;
+    height: 270px;
+    border-radius: 1rem;
+    margin: 0 1rem 2rem 1rem;
+
+    background-color: rgb(255, 255, 255);
+}
+#C:hover{
+    width: 250px;
+    height: 290px;
+
+    transition: 1s;
+}
+
+#python{
+    width: 230px;
+    height: 270px;
+    border-radius: 1rem;
+    margin: 0 1rem 2rem 1rem;
+
+    background-color: rgb(255, 255, 255);
+}
+#python:hover{
+    width: 250px;
+    height: 290px;
+
+    transition: 1s;
+}
+
+#php2{
+    width: 230px;
+    height: 270px;
+    border-radius: 1rem;
+    margin: 0 1rem 2rem 1rem;
+
+    background-color: rgb(255, 255, 255);
+}
+
+#php3{
+    width: 230px;
+    height: 270px;
+    border-radius: 1rem;
+    margin: 0 1rem 2rem 1rem;
+
+    background-color: rgb(255, 255, 255);
+}
+
+#php4{
+    width: 230px;
+    height: 270px;
+    border-radius: 1rem;
+    margin: 0 1rem 2rem 1rem;
+
+    background-color: rgb(255, 255, 255);
+}
+
+#colun1{
+    display: flex;
+}
+
+/* CONTATOS */
+
+#projetos{
+    display: inline-block;
+    height: 900px;
+}
+
+#projetos-textos {
+    justify-content: center;
+    text-align: center;
+
+    margin-top: 2rem;
+}
+
+#projetos-textos h1{
+    font: 600 24px Raleway,sans-serif;
+}
+#projetos-textos p{
+    font: 600 36px "Open Sans",sans-serif;
+}
+
+#fotos{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+
+
+    width: 100%;
+    height: 460px;;
+    border-radius: 1rem;
+    
+    flex-wrap: wrap;
+
+    text-align: center;
+    font: 900 18px "Raleway",sans-serif;
+}
+
+#nlw{
+    width: 420px;
+    height: 270px;
+    border-radius: 1rem;
+    margin: 2rem 3rem 2rem 3rem;
+
+
+}
+#nlw img{
+    width: 460px;
+    height: 250px;
+    justify-content: center;
+
+}
+#nlw img:hover {
+    width: 500px;
+    height: 300px;
+    transition: 1s;
+
+    margin-top: 0.5rem;
+}
+
+#covid{
+    width: 420px;
+    height: 270px;
+    border-radius: 1rem;
+    margin: 2rem 3rem 2rem 3rem;
+    margin-top: 1.5rem;
+}
+#covid img {
+    width: 460px;
+    height: 250px;
+    justify-content: center;
+}
+#covid img:hover {
+    width: 500px;
+    height: 300px;
+    transition: 1s;
+
+    margin-top: 0.5rem;
+}
+
+#pr1{
+    width: 420px;
+    height: 270px;
+    border-radius: 1rem;
+    margin: 3rem 3rem 2rem 3rem;
+}
+#pr1 img {
+    width: 460px;
+    height: 250px;
+    justify-content: center;
+}
+#pr1 img:hover {
+    width: 500px;
+    height: 300px;
+    transition: 1s;
+
+    margin-top: 0.5rem;
+}
+
+#pr2{
+    width: 420px;
+    height: 270px;
+    border-radius: 1rem;
+    margin: 3rem 3rem 2rem 3rem;
+}
+#pr2 img {
+    width: 460px;
+    height: 250px;
+    justify-content: center;
+}
+#pr2 img:hover {
+    width: 500px;
+    height: 300px;
+    transition: 1s;
+
+    margin-top: 0.5rem;
+}
+
+#contato{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    width: 100%;
+    height: 650px;
+    
+    background: #03071e;
+}
+
+.redes{
+    width: 50%;
+    height: 460px;
+    border-radius: 20%;
+
+    background-color: white;
+}
+.redes h1{
+    font: 900 30px "Raleway",sans-serif;
+
+    margin-top: 2rem;
+    text-align: center;
+
+}
+#botoes{
+    margin-top: 3rem;
+}
+#linkedinD{
+    display: flex;
+    justify-content: center;
+
+    margin: 2rem;
+    border: 0;
+}
+#linkedin{
+    display: flex;
+    justify-content: start;
+    text-align: center;
+
+    background: #03071e;
+
+    width: 448px;
+    height: 3.5rem;
+    border: 0;
+    border-radius: 1rem;
+
+    cursor: pointer;
+}
+#linkedinD img{
+    display: flex;
+
+    margin-left: 3rem;
+    margin-top: 0.4rem;
+    widows: 40px;
+    height: 40px;
+}
+#linkedin h2{
+    justify-content: center;
+    text-align: center;
+
+    margin-top: 0.8rem;
+    margin-left: 5rem;
+    font: 600 25px "Raleway",sans-serif;
+
+    color: white;
+
+}
+#gitD{
+    display: flex;
+    justify-content: center;
+
+    margin: 2rem;
+    border: 0;
+}
+#github{
+    display: flex;
+    justify-content: start;
+    text-align: center;
+
+    background: #03071e;
+
+    width: 448px;
+    height: 3.5rem;
+    border: 0;
+    border-radius: 1rem;
+
+    cursor: pointer;
+}
+#gitD img{
+    display: flex;
+
+    margin-left: 3rem;
+    margin-top: 0.4rem;
+    widows: 40px;
+    height: 40px;
+}
+#github h2{
+    justify-content: center;
+    text-align: center;
+
+    margin-top: 0.8rem;
+    margin-left: 5rem;
+    font: 600 25px "Raleway",sans-serif;
+
+    color: white;
+
+}
+#insta{
+    display: flex;
+    justify-content: center;
+
+    margin: 2rem;
+    border: 0;
+
+}
+#instagram{
+    display: flex;
+    justify-content: start;
+    text-align: center;
+
+    background: #03071e;
+
+    width: 448px;
+    height: 3.5rem;
+    border: 0;
+    border-radius: 1rem;
+
+    cursor: pointer;
+}
+#insta img{
+    display: flex;
+
+    margin-left: 3rem;
+    margin-top: 0.4rem;
+    widows: 40px;
+    height: 40px;
+}
+#instagram h2{
+    justify-content: center;
+    text-align: center;
+
+    margin-top: 0.8rem;
+    margin-left: 5rem;
+    font: 600 25px "Raleway",sans-serif;
+
+    color: white;
+
+}
+#linkedin:hover,#github:hover,#instagram:hover{
+    width: 450px;
+    height: 3.6rem;
+
+    background: #040a31;
+}
+
+button {
+    width: 80%;
+    height: 3.5rem;
+}
+
+#copy {
+    text-align: center;
+    font: 600 20px "Raleway",sans-serif;
+
+    color: white;
+    background: #03071e;
+
+}
+
+@media (min-width:700px){
+    /* COMPUTADOR */
+    *{
+        margin: 0;
+    }
+    
+    #titulos {
+    
+        width:100%;
+    
+        height:50px;
+    
+        background-color:#212529;
+    }
+    
+    #opcoes li{
+        display: inline-block;
+        justify-content: center;
+        text-align: center;
+    
+        padding: 10px;
+        margin-left: 20px;
+        margin-top: 3.8px;
+        font-size: 1.3rem;
+        font-family: "Raleway",sans-serif;;
+    
+        color: white;
+        cursor: pointer;
+    }
+    a{
+        text-decoration: none;
+        color: white
+    }
+    
+    a:hover{
+        text-decoration: underline;
+        color: #f48c06;
+        transition: 1s;
+    }
+    
+    #opcoes #nome{
+        font-size: 1rem;
+        color: #ffba08;
+    }
+    
+    #pagina {
+        display: flex;
+        width: 100%;
+        max-width: 100vw;
+        height: 60vh;
+    
+        background-color: #03071e;
+    
+        border-bottom: 1px solid #ffba08;
+    }
+    
+    #apresentacao{
+        width: 50%;
+        max-width: 100vw;
+        height: 60vh;
+    
+        margin-top: 3rem;
+    }
+    
+    #imagem2{
+        width: 50%;
+        height: 60vh;
+    
+    }
+    
+    #imagem2 img {
+        width: 450px;
+        height: 360px;
+    }
+    
+    #pagina h1 {
+        margin-left: 6rem;
+        font: 400 3.5rem Raleway,sans-serif;
+    
+        color: #ffba08;
+    }
+    
+    #pagina h2{
+        margin-top: .4rem;
+        margin-left: 6rem;
+    
+        font: 400 1.3rem Raleway,sans-serif;;
+    
+        color: rgba(98, 98, 98, 0.897);
+    }
+    
+    #botao {
+        justify-content: center;
+        margin-left: 6.1rem;
+        margin-top: 2rem;
+        border: 0;
+    
+        font: 700 1.2rem "Raleway",sans-serif;
+        
+        width: 15rem;
+        height: 3rem;
+    
+        cursor: pointer;
+        background: #ffba08;
+        border-radius: 10rem;
+    }
+    #botao:hover{
+        background: #fbcc54;
+        transition: 1s;
+        width: 20rem;
+        height: 4rem;
+    }
+    
+    
+    
+    .sobre1{
+        display: flex;
+    
+        border-radius: 5rem;
+    
+    }
+    
+    #sobre {
+    
+        width: 60vw;
+        height: 450px;
+    
+        border: 0;
+    
+    }
+    
+    #sobre h1{
+        text-align: start;
+        font: 700 34px "Raleway",sans-serif;
+    
+        margin-left: 2rem;
+        margin-top: 2rem;
+    }
+    
+    #sobre p{
+        text-align: start;
+        font: 300 1rem "Open Sans",sans-serif;
+    
+        line-height: 1.3rem;
+        padding: 2rem;
+    }
+    
+    
+    #imagem1 {
+        width: 50vw;
+        height: 1px;
+    }
+    #imagem1 img{
+        margin-left: 2rem;
+        margin-bottom: 20rem;
+    
+        width: 500px;
+        height: 400px; 
+    }
+    
+    #cv {
+        margin-left: 11rem;
+        border: 0;
+    
+        font: 700 1.3rem "Raleway",sans-serif;
+        
+    
+        width: 20rem;
+        height: 3rem;
+    
+        background: #e85d04;
+        border-radius: 3rem;
+    
+        cursor: pointer;
+    }
+    
+    #cv:hover{
+        background: #f87321;
+        transition: 1s;
+    
+        width: 23rem;
+        height: 4rem;
+    }
+    
+    #tecnologias {
+        height: 650px;
+        padding: 70px;
+        background: #03071e;
+    }
+    
+    #tecnologias #tec-text{
+        font: 100 13px Raleway,sans-serif;
+    
+        text-align: center;
+    }
+    #tecnologias p{
+        font: 600 30px Raleway,sans-serif;
+    
+    }
+    
+    #habilidades{
+        display: flex;
+        justify-content: center;
+    
+        width: 100%;
+        height: 460px;;
+        border-radius: 1rem;
+        margin: 28px;
+        
+        flex-wrap: wrap;
+        
+    }
+    #habilidades img{
+        width: 25%;
+        height: 25%;
+    
+        display: inline-flex;
+    
+        margin-left: 5.5rem;
+        margin-top: 1rem;
+    }
+    
+    
+    
+    #habilidades h1{
+        font: 900 18px "Raleway",sans-serif;
+        text-align: center;
+    
+        color: #03071e;
+    
+    }
+    #habilidades p {
+        font: 100 1rem "Open Sans",sans-serif;
+    
+        text-align: center;
+    
+        line-height: 28px;
+        padding: 1.2rem;
+    
+    }
+    
+    #html {
+    
+        width: 230px;
+        height: 270px;
+        border-radius: 1rem;
+        margin: 0 1rem 2rem 1rem;
+        background-color: rgb(255, 255, 255);
+    }
+    #html:hover{
+        width: 250px;
+        height: 290px;
+    
+        transition: 1s;
+    
+    }
+    
+    #css{
+        width: 230px;
+        height: 270px;
+        border-radius: 1rem;
+        margin: 0 1rem 2rem 1rem;
+    
+        background-color: rgb(255, 255, 255);
+    }
+    #css:hover{
+        width: 250px;
+        height: 290px;
+    
+        transition: 1s;
+    }
+    
+    #JavaScript{
+        width: 230px;
+        height: 270px;
+        border-radius: 1rem;
+        margin: 0 1rem 2rem 1rem;
+    
+        background-color: rgb(255, 255, 255);
+    }
+    #JavaScript:hover{
+        width: 250px;
+        height: 290px;
+    
+        transition: 1s;
+    }
+    
+    #C{
+        width: 230px;
+        height: 270px;
+        border-radius: 1rem;
+        margin: 0 1rem 2rem 1rem;
+    
+        background-color: rgb(255, 255, 255);
+    }
+    #C:hover{
+        width: 250px;
+        height: 290px;
+    
+        transition: 1s;
+    }
+    
+    #python{
+        width: 230px;
+        height: 270px;
+        border-radius: 1rem;
+        margin: 0 1rem 2rem 1rem;
+    
+        background-color: rgb(255, 255, 255);
+    }
+    #python:hover{
+        width: 250px;
+        height: 290px;
+    
+        transition: 1s;
+    }
+    
+    #php2{
+        width: 230px;
+        height: 270px;
+        border-radius: 1rem;
+        margin: 0 1rem 2rem 1rem;
+    
+        background-color: rgb(255, 255, 255);
+    }
+    
+    #php3{
+        width: 230px;
+        height: 270px;
+        border-radius: 1rem;
+        margin: 0 1rem 2rem 1rem;
+    
+        background-color: rgb(255, 255, 255);
+    }
+    
+    #php4{
+        width: 230px;
+        height: 270px;
+        border-radius: 1rem;
+        margin: 0 1rem 2rem 1rem;
+    
+        background-color: rgb(255, 255, 255);
+    }
+    
+    #colun1{
+        display: flex;
+    }
+    
+    /* CONTATOS */
+    
+    #projetos{
+        height: 600px;
+    }
+    
+    #projetos-textos {
+        text-align: center;
+    
+        margin-top: 2rem;
+    }
+    
+    #projetos-textos h1{
+        font: 600 24px Raleway,sans-serif;
+    }
+    #projetos-textos p{
+        font: 600 36px "Open Sans",sans-serif;
+    }
+    
+    #fotos{
+        display: flex;
+        justify-content: center;
+        margin-top: 2rem;
+    
+    
+        width: 100%;
+        height: 460px;;
+        border-radius: 1rem;
+        
+        flex-wrap: wrap;
+    
+        text-align: center;
+        font: 900 18px "Raleway",sans-serif;
+    }
+    
+    #nlw{
+        width: 420px;
+        height: 270px;
+        border-radius: 1rem;
+        margin: 2rem 3rem 2rem 3rem;
+    
+    
+    }
+    #nlw img{
+        width: 460px;
+        height: 250px;
+        justify-content: center;
+    
+    }
+    #nlw img:hover {
+        width: 500px;
+        height: 300px;
+        transition: 1s;
+    
+        margin-top: 0.5rem;
+    }
+    
+    #covid{
+        width: 420px;
+        height: 270px;
+        border-radius: 1rem;
+        margin: 2rem 3rem 2rem 3rem;
+    }
+    #covid img {
+        width: 460px;
+        height: 250px;
+        justify-content: center;
+    }
+    #covid img:hover {
+        width: 500px;
+        height: 300px;
+        transition: 1s;
+    
+        margin-top: 0.5rem;
+    }
+    
+    #pr1{
+        width: 420px;
+        height: 270px;
+        border-radius: 1rem;
+        margin: 3rem 3rem 2rem 3rem;
+    }
+    #pr1 img {
+        width: 460px;
+        height: 250px;
+        justify-content: center;
+    }
+    #pr1 img:hover {
+        width: 500px;
+        height: 300px;
+        transition: 1s;
+    
+        margin-top: 0.5rem;
+    }
+    
+    #pr2{
+        width: 420px;
+        height: 270px;
+        border-radius: 1rem;
+        margin: 3rem 3rem 2rem 3rem;
+    }
+    #pr2 img {
+        width: 460px;
+        height: 250px;
+        justify-content: center;
+    }
+    #pr2 img:hover {
+        width: 500px;
+        height: 300px;
+        transition: 1s;
+    
+        margin-top: 0.5rem;
+    }
+    
+    #contato{
+        display:flex;
+        justify-content:center;
+        align-items:center;
+    
+        width: 100%;
+        height: 650px;
+        
+        background: #03071e;
+    }
+    
+    .redes{
+        width: 50%;
+        height: 460px;
+        border-radius: 20%;
+    
+        background-color: white;
+    }
+    .redes h1{
+        font: 900 30px "Raleway",sans-serif;
+    
+        margin-top: 2rem;
+        text-align: center;
+    
+    }
+    #botoes{
+        margin-top: 3rem;
+    }
+    #linkedinD{
+        display: flex;
+        justify-content: center;
+    
+        margin: 2rem;
+        border: 0;
+    }
+    #linkedin{
+        display: flex;
+        justify-content: start;
+        text-align: center;
+    
+        background: #03071e;
+    
+        width: 448px;
+        height: 3.5rem;
+        border: 0;
+        border-radius: 1rem;
+    
+        cursor: pointer;
+    }
+    #linkedinD img{
+        display: flex;
+    
+        margin-left: 3rem;
+        margin-top: 0.4rem;
+        widows: 40px;
+        height: 40px;
+    }
+    #linkedin h2{
+        justify-content: center;
+        text-align: center;
+    
+        margin-top: 0.8rem;
+        margin-left: 5rem;
+        font: 600 25px "Raleway",sans-serif;
+    
+        color: white;
+    
+    }
+    #gitD{
+        display: flex;
+        justify-content: center;
+    
+        margin: 2rem;
+        border: 0;
+    }
+    #github{
+        display: flex;
+        justify-content: start;
+        text-align: center;
+    
+        background: #03071e;
+    
+        width: 448px;
+        height: 3.5rem;
+        border: 0;
+        border-radius: 1rem;
+    
+        cursor: pointer;
+    }
+    #gitD img{
+        display: flex;
+    
+        margin-left: 3rem;
+        margin-top: 0.4rem;
+        widows: 40px;
+        height: 40px;
+    }
+    #github h2{
+        justify-content: center;
+        text-align: center;
+    
+        margin-top: 0.8rem;
+        margin-left: 5rem;
+        font: 600 25px "Raleway",sans-serif;
+    
+        color: white;
+    
+    }
+    #insta{
+        display: flex;
+        justify-content: center;
+    
+        margin: 2rem;
+        border: 0;
+    
+    }
+    #instagram{
+        display: flex;
+        justify-content: start;
+        text-align: center;
+    
+        background: #03071e;
+    
+        width: 448px;
+        height: 3.5rem;
+        border: 0;
+        border-radius: 1rem;
+    
+        cursor: pointer;
+    }
+    #insta img{
+        display: flex;
+    
+        margin-left: 3rem;
+        margin-top: 0.4rem;
+        widows: 40px;
+        height: 40px;
+    }
+    #instagram h2{
+        justify-content: center;
+        text-align: center;
+    
+        margin-top: 0.8rem;
+        margin-left: 5rem;
+        font: 600 25px "Raleway",sans-serif;
+    
+        color: white;
+    
+    }
+    #linkedin:hover,#github:hover,#instagram:hover{
+        width: 450px;
+        height: 3.6rem;
+    
+        background: #040a31;
+    }
+    
+    button {
+        width: 80%;
+        height: 3.5rem;
+    }
+    
+    #copy {
+        text-align: center;
+        font: 600 20px "Raleway",sans-serif;
+    
+        color: white;
+        background: #03071e;
+    
+    }
+    }

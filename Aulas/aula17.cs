@@ -1,10 +1,10 @@
 using System;
-
+// ARRAY / VETORES
 class Aula17 {
 
     static void Main(){
         //int n1,n2,n3,n4,n5;
-        int[] n = new int [5];
+        int[] n = new int [5];// n[5]
         int[] num = new int[3]{55 ,77 ,99};//int[] num = {55,77,99}
         string[] veiculos=new string[3];
 
@@ -20,6 +20,5 @@ class Aula17 {
 
         Console.WriteLine("N = {0}",n[2]);
         Console.WriteLine("Num = {0}",num[2]);
-
     }
 }

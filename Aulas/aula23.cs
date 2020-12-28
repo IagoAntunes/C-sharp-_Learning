@@ -41,52 +41,52 @@ class Aula23 {
         }
         Console.WriteLine("-------------------------------------------");
 
-        //public longe GetLongLenght(dimensão);
+        //public longe GetLongLenght(dimensão) Saber numero de elementos no vetor
         Console.WriteLine("GetLongLenght");
         long qtdeElementosVetor=vetor1.GetLongLength(0);
         Console.WriteLine("Quantidade de elementos {0}",qtdeElementosVetor);
         Console.WriteLine("-------------------------------------------");
 
-        //public int GetLowerBound(dimensão);
+        //public int GetLowerBound(dimensão) Achar menor indice;
         Console.WriteLine("GetLowerBound");
         int MenorIndiceVetor=vetor1.GetLowerBound(0);
         int MenorIndiceMatriz_D1=matriz.GetLowerBound(1);
         Console.WriteLine("Menor Índice do vetor1 {0}",MenorIndiceVetor);
         Console.WriteLine("-------------------------------------------");
 
-        //public int GetUpperBound
+        //public int GetUpperBound   -achar o maior indice;
         Console.WriteLine("GetUpperBound");
         int MaiorIndiceVetor=vetor1.GetUpperBound(0);
         int MaiorIndiceMatriz_D1=matriz.GetUpperBound(1);
         Console.WriteLine("Maior índice do vetor1 {0}",MaiorIndiceVetor);
         Console.WriteLine("-------------------------------------------");
 
-        //public object GetValue(long índice);
+        //public object GetValue(long índice)- achar o elemento em determinada pos;
         Console.WriteLine("GetValue");
         int valor0=Convert.ToInt32(vetor1.GetValue(3));
         int valor1=Convert.ToInt32(matriz.GetValue(1,3));
         Console.WriteLine("Valor da posição 3 do vetor1: {0}", valor0);
         Console.WriteLine("-------------------------------------------");
 
-        //public static int IndexOf(array,valor);
+        //public static int IndexOf(array,valor) localizar posição do elemento;
         Console.WriteLine("IndexOf");
         int indice1=Array.IndexOf(vetor1,3);
         Console.WriteLine("Indice do primeiro valor 3:{0}",indice1);
         Console.WriteLine("-------------------------------------------");
 
-        //public static int LastIndexOf(array,valor):
+        //public static int LastIndexOf(array,valor) localizar ultimo indice do elemento:
         Console.WriteLine("LastIndexOf");
         int indice2=Array.LastIndexOf(vetor1,3);
         Console.WriteLine("Indice do último valor 33:{0}",indice2);
         Console.WriteLine("-------------------------------------------");
 
-        //public static void Reverse(array);
+        //public static void Reverse(array) -inverter vetor;
         Array.Reverse(vetor1);
         foreach(int n in vetor1){
             Console.WriteLine(n);
         }   
 
-        //public void SetValue(object valor, long pos);
+        //public void SetValue(object valor, long pos) ;
         vetor2.SetValue(99,0);
         for(int i=0;i<vetor2.Length;i++){
             vetor2.SetValue(0,i);
@@ -112,12 +112,5 @@ class Aula23 {
         foreach(int n in vetor3){
             Console.WriteLine(n);
         }
-
-
-
     }
-
-
-
-
 }
