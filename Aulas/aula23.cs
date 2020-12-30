@@ -70,6 +70,7 @@ class Aula23 {
 
         //public static int IndexOf(array,valor) localizar posição do elemento;
         Console.WriteLine("IndexOf");
+        Console.WriteLine("Index0f");
         int indice1=Array.IndexOf(vetor1,3);
         Console.WriteLine("Indice do primeiro valor 3:{0}",indice1);
         Console.WriteLine("-------------------------------------------");

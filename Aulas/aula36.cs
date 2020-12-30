@@ -15,7 +15,7 @@ class Veiculo{ // -> BASE
         return velMax;
     }
 }
-class Carro:Veiculo// >- Derivada de Veiculo
+class Carro:Veiculo// -> Derivada de Veiculo
 {
     public string nome;
     public Carro(string nome,int vm):base(vm) {

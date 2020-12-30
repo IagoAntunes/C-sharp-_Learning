@@ -1,5 +1,5 @@
 using System;
-// HERANÇA
+// CADEIA DE HERANÇA
 class Veiculo{ //CLASSE BASE
     private int rodas;
     public int velMax;
@@ -80,7 +80,5 @@ class Aula35{
         Console.WriteLine("Vel.Maxima...:{0}",cc1.velMax);
         Console.WriteLine("Ligado...:{0}",cc1.getLigado());
         Console.WriteLine("Municao...:{0}",cc1.municao);
-
-
     }
 }
