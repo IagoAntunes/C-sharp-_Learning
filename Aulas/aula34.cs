@@ -1,6 +1,6 @@
 using System;
-// Private ou Public
-
+// HERANÇA
+//protected: somente as classes que derivam dela podem acessar o membro
 class Veiculo{ //CLASSE BASE
     public int rodas;
     public int velMax;
@@ -19,7 +19,7 @@ class Veiculo{ //CLASSE BASE
         }
     }
 }
-
+//protected: somente as classes que derivam dela podem acessar o membro
 class Carro:Veiculo{   // Base:Derivada        Base herda a derivada
     public string nome;
     public string cor;
