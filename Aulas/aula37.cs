@@ -6,6 +6,7 @@ class Base{ // -> BASE
         Console.WriteLine("Construtor da Classe Base");
     }
 }
+
 class Derivada1:Base{ //
     public Derivada1(){
         Console.WriteLine("Construtor da Classe Derivada1");
@@ -17,7 +18,6 @@ class Derivada2:Derivada1{ //
         Console.WriteLine("Construtor da Classe Derivada2");
     }
 }
-
 
 class Aula37{
     static void Main(){

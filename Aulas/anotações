@@ -1,0 +1,7 @@
+---- ReadKey() Obtém o próximo caractere ou tecla de função pressionada pelo usuário. A tecla pressionada é exibida na janela do console.
+while (Console.ReadKey().Key != ConsoleKey.Enter) {}
+
+
+DateTime date1 = DateTime.Now;
+DateTime date2 = DateTime.UtcNow;
+DateTime date3 = DateTime.Today;
