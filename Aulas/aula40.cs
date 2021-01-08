@@ -14,3 +14,9 @@ class Aula40{
         
     }
 }
+
+
+/*   Utilização de SEALED  e ABSTRACT juntos       --Nao sei se pode--
+abstract MateriaPrima{}
+sealed ProdutoFinal:MateriaPrima{}
+*/
