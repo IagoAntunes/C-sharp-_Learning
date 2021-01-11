@@ -7,22 +7,23 @@ using System;
 class Galinha{
     private string nomeGalinha;
     private int numOvo;
+    public int total;
 
     public Galinha(string nomeGalinha){//Metodo(precisa dos parametros),Construtor
         this.nomeGalinha = nomeGalinha;
         numOvo = 0;
     }
+
     public Ovo botar(){ //Metodo para retornar objeto OVO
         numOvo++;
+        total += numOvo;
         return new Ovo(numOvo,nomeGalinha);
-        
     }
 }
 
 class Ovo{
     private int numOvo;
     private string minhaGalinha;
-
 
     public Ovo(int numOvo,string minhaGalinha){//Metodo(precisa dos parametros),Construtor
         this.numOvo = numOvo;
@@ -47,6 +48,8 @@ class Aula46{
 
         g3.botar();
         g3.botar();
+
+        Console.WriteLine("Total de Ovos:{0}",g1.total);
     }
 }
 
