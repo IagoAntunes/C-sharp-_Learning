@@ -44,7 +44,7 @@ class Aula47{
         double result;
         Console.WriteLine("Tamanho do Vetor:");
         qtd = int.Parse(Console.ReadLine());
-        double[] res = new double[qtd];
+        double[] res = new double[qtd];// isso é PARAMS
         
         Calc calc = new Calc();
         
