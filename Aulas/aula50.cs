@@ -3,6 +3,8 @@ using System;
 /*
 É um objeto que pode fazer referencia a metodo(quantos metodos quiser dentro da classe)
 pode ter uma classe com varios metodos static , com um DELEGATE que vai fazer referencia a todos metodos dessa classe.
+
+PARECIDO COM 'PONTEIRO' del variavel
 */
 
 delegate int Op(int n1, int n2);//DELEGATE
@@ -30,7 +32,6 @@ class Aula50{
         res = d1(10,50);
 
         Console.WriteLine("Multiplicação: {0}",res);
-
 
     }
 }
