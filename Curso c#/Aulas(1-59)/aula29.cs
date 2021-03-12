@@ -5,7 +5,7 @@ public class Jogador {
     public int energia;
     public bool vivo;
     public string nome;
-    public Jogador(string n) {
+    public Jogador(string n) {//CONSTRUTOR
         energia = 100;
         vivo = true;
         nome = n;
