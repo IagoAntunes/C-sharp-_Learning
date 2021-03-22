@@ -28,6 +28,15 @@ namespace Compo
 
         }
 
+        private void atualizaLb(ListBox lb,List<string>l)
+        {
+            lb.DataSource = null;
+            lb.DataSource = l;
+
+        }
+
+
+
         private void btn_add_Click(object sender, EventArgs e)
         {
             if(tb_carro.Text == "")
@@ -39,8 +48,7 @@ namespace Compo
             {
                 carros.Add(tb_carro.Text);
                 tb_carro.Clear();
-                lb_carros.DataSource = null;
-                lb_carros.DataSource = carros;
+                atualizaLb(lb_carros,carros);
 
 
             }
@@ -56,9 +64,8 @@ namespace Compo
             {
                 carros.RemoveAt(lb_carros.SelectedIndex);
             }
-            
-            lb_carros.DataSource = null;
-            lb_carros.DataSource = carros;
+
+            atualizaLb(lb_carros, carros);
         }
 
         private void btn_obter_Click(object sender, EventArgs e)
@@ -69,8 +76,7 @@ namespace Compo
         private void btn_limpar_Click(object sender, EventArgs e)
         {
             carros.Clear();
-            lb_carros.DataSource = null;
-            lb_carros.DataSource = carros;
+            atualizaLb(lb_carros, carros);
         }
     }
 }
