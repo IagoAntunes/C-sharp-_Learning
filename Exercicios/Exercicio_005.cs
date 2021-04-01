@@ -2,7 +2,6 @@
 
 using System; 
 
-
     class fatorial{
 
         static int fat(int n){
@@ -15,7 +14,6 @@ using System;
             return resp;
         }
         
-
         static void Main() { 
             Console.WriteLine("Resposta = {0} ",fat(5));
         }
