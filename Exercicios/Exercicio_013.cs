@@ -4,16 +4,18 @@ class URI {
 
     static void Main(string[] args) { 
 
-        int A,B,C,D,DIFERENCA;
-    
-        A = int.Parse(Console.ReadLine());
-        B = int.Parse(Console.ReadLine());
-        C = int.Parse(Console.ReadLine());
-        D = int.Parse(Console.ReadLine());
+        string nome;
+        double salario,venda,total;
         
-        DIFERENCA = (A*B - C*D);
-
-        Console.WriteLine("DIFERENCA = {0}",DIFERENCA);
+        nome = Console.ReadLine();
+        salario = float.Parse(Console.ReadLine());
+        venda = float.Parse(Console.ReadLine());
+        
+        total = (salario + (venda * 0.15));
+        
+        Console.WriteLine("TOTAL = R$ {0:f2}",total);
+        
+        
 
     }
 
