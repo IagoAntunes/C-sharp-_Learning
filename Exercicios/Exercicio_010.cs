@@ -4,14 +4,17 @@ class URI {
 
     static void Main(string[] args) { 
 
-        int A,B,SOMA;
+
+        float A,B,C,MEDIA;
         
-        A = int.Parse(Console.ReadLine());
-        B = int.Parse(Console.ReadLine());
-        SOMA = A + B;
+        A = float.Parse(Console.ReadLine());
+        B = float.Parse(Console.ReadLine());
+        C = float.Parse(Console.ReadLine());
         
-        Console.WriteLine("SOMA = {0}",SOMA);
+        MEDIA = ((A*2 + B*3 + C*5))/10;
+        
+        Console.WriteLine("MEDIA = {0:f1}",MEDIA);
+
 
     }
-
 }
