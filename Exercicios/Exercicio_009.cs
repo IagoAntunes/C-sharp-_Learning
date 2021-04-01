@@ -3,15 +3,15 @@ using System;
 class URI {
 
     static void Main(string[] args) { 
-
-        int A,B,SOMA;
+    
+        double A,B,MEDIA;
         
-        A = int.Parse(Console.ReadLine());
-        B = int.Parse(Console.ReadLine());
-        SOMA = A + B;
+        A = double.Parse(Console.ReadLine());
+        B = double.Parse(Console.ReadLine());
         
-        Console.WriteLine("SOMA = {0}",SOMA);
+        MEDIA = ((A * 3.5 + B * 7.5))/11;
 
+        Console.WriteLine("MEDIA = {0:f5}",MEDIA);
+        
     }
-
 }
