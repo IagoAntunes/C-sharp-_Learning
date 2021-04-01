@@ -4,16 +4,13 @@ class URI {
 
     static void Main(string[] args) { 
 
-    int X;
-    double Y,total;
+        int calculo,km;
     
-    X = int.Parse(Console.ReadLine());
-    Y = double.Parse(Console.ReadLine());
-    
-    total = X/Y;
-    
-    Console.WriteLine("{0:f3} km/l",total);
-    
+        km = int.Parse(Console.ReadLine());
+        
+        calculo = (km * 60) / 30;
+        
+        Console.WriteLine("{0} minutos",calculo);
 
     }
 
