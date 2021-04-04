@@ -4,15 +4,17 @@ class URI {
 
     static void Main(string[] args) { 
 
-        double tempo,velocidade,calculo;
+        int tempo,horas,minutos,segundos;
         
-        tempo = double.Parse(Console.ReadLine());
-        velocidade = double.Parse(Console.ReadLine());
+        tempo = int.Parse(Console.ReadLine());
+
+        horas = (tempo / 3600);
+        minutos = ((tempo % 3600) / 60);
+        segundos = (tempo % 60);
+        
+        Console.WriteLine("{0}:{1}:{2}",horas,minutos,segundos);
         
         
-        calculo = (tempo * velocidade)/12;
-        
-        Console.WriteLine("{0:f3}",calculo);
 
     }
 

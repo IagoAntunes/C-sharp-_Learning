@@ -11,22 +11,25 @@ class URI {
         money = moneyT;
         while(money !=0){
             
-            if(money % 100 == 0){
+            if(money >= 100){
                 nota100 ++;
                 money = money - 100;
-            }else if(money % 50 == 0){
+            }else if(money >= 50){
                 nota50 ++;
                 money = money - 50;
-            }else if(money % 20 == 0){
+            }else if(money >= 20){
                 nota20 ++;
                 money = money - 20;
-            }else if(money % 10 == 0){
+            }else if(money >= 10){
                 nota10++;
                 money = money - 10;
-            }else if(money % 2 == 0){
+            }else if(money >= 5){
+                nota5++;
+                money = money - 5;
+            }else if(money >= 2){
                 nota2 ++;
                 money = money - 2;
-            }else if(money % 1 == 0){
+            }else if(money >= 1){
                 nota1++;
                 money = money - 1;
             }  
