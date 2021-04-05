@@ -4,21 +4,23 @@ class URI {
 
     static void Main(string[] args) { 
 
-        double A;
+        int food,qtd;
+        double total;
+
+        string[] vetor = Console.ReadLine().Split(' ');
+        double[] array1 = new double[5] {4.00,4.50,5.00,2.00,1.50};
         
-        A = double.Parse(Console.ReadLine());
-        
-        
-        if(A <= 25){
-            Console.WriteLine("Intervalo (0,25]");
-        }else if(A <= 50){
-            Console.WriteLine("Intervalo [25,50]");
-        }else if(A<= 75){
-            Console.WriteLine("Intervalo [50,75]");
-        }else if(A <= 100){
-            Console.WriteLine("Intervalo (75,100]");
-        }else{
-            Console.WriteLine("Fora de intervalo");
-        }
+        food = int.Parse(vetor[0]);
+        qtd = int.Parse(vetor[1]);
+
+        total = array1[food - 1] * qtd;
+
+        Console.WriteLine("Total: R$: {0:f2}",total);
+
+
+
+
+
+
     }
 }
