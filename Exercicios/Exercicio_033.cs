@@ -4,29 +4,24 @@ class URI {
 
     static void Main(string[] args) { 
 
-        double x,y;
-        
+        double A,B,C,per,area;
+
         string[] vetor = Console.ReadLine().Split(' ');
         
-        x = double.Parse(vetor[0]);
-        y = double.Parse(vetor[1]);
-        if(x == 0 && y==0){
-            Console.WriteLine("Origem");
-        }else if(x > 0 && y > 0){
-            Console.WriteLine("Q1");
-        }else if(x < 0 && y > 0){
-            Console.WriteLine("Q2");
-        }else if(x < 0 && y < 0){
-            Console.WriteLine("Q3");
-        }else if(x > 0 && y < 0){
-            Console.WriteLine("Q4");
-        }else if(x == 0 && y != 0){
-            Console.WriteLine("Eixo X");
-        }else if(y == 0 && x != 0){
-            Console.WriteLine("Eixo Y");
+        A = double.Parse(vetor[0]);
+        B = double.Parse(vetor[1]);
+        C = double.Parse(vetor[2]);
+        
+        
+        if(A + B > C && A + C > B && B + C > A){
+            per = A + B + C;
+            Console.WriteLine("Perimetro = {0:f1}",per);
+        }else{
+            area = ((A+B)*C)/2;
+            Console.WriteLine("Area = {0:f1}",area);
         }
 
 
-    }
 
+    }
 }
