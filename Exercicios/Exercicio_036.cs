@@ -14,7 +14,7 @@ class URI {
                 if(opcao3 == "carnivoro"){
                     Console.WriteLine("aguia");
                 }else if(opcao3 == "onivoro"){
-                    Console.WriteLine("pomva");
+                    Console.WriteLine("pomba");
                 }
             }else if(opcao2 == "mamifero"){
                 opcao3 = Console.ReadLine();
