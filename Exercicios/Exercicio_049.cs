@@ -4,13 +4,18 @@ class URI {
 
     static void Main(string[] args) { 
 
-        int num;
+        int maior=0,indice=1;
+        int[] vetor = new int[105];
 
-        num = int.Parse(Console.ReadLine());
-
-
-        for(int i=1;i<=10;i++){
-            Console.WriteLine("{0} x {1} = {2}",i,num,i*num);
+        for(int i=1;i<=100;i++){
+            vetor[i] = int.Parse(Console.ReadLine());
+            if(vetor[i] > maior){
+                maior = vetor[i];
+                indice = i;
+            }
         }
+        Console.WriteLine("{0}",maior);
+        Console.WriteLine("{0}",indice);
+
     }
 }
