@@ -1,4 +1,3 @@
-# C#
 ![](https://imgur.com/njqLsTf.png)
 ***
 
