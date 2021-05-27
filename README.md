@@ -1,5 +1,14 @@
-# C#
 ![](https://imgur.com/njqLsTf.png)
+<h3 align = center><i><b> Repositorio dedicado a mostrar meus estudos sobre o C#</b></i> </h3>
+
+<p align="center">
+ <a href="#objetivo">Introdução</a> |
+  <a href="#tecnologias">Tecnologias</a> |
+ <a href="#roadmap">Cursos</a> |
+ <a href="#contribuicao">Em breve</a> |
+ <a href="#licenc-a">Em breve </a> |
+ <a href="#autor">Autor</a>
+</p>
 ***
 
 
