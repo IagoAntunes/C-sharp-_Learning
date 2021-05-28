@@ -4,31 +4,18 @@ class URI {
 
     static void Main(string[] args) { 
 
-        int M,N;
-        int soma=0,maior,menor;
-        int opc = 0;
+       int senha = 2002;
+
+       int tentativa,opc = 0;
 
         while(opc != 1){
-            string[] vetor = Console.ReadLine().Split(' ');
-            M = int.Parse(vetor[0]);
-            N = int.Parse(vetor[1]);
-            if(M <= 0 || N <= 0){
-                break;
-            }
-            if(M > N){
-                maior = M;
-                menor = N;
+            tentativa = int.Parse(Console.ReadLine());
+            if(tentativa == senha){
+                Console.WriteLine("Acesso Permitido");
+                opc = 1;
             }else{
-                maior = N;
-                menor = M;
+                Console.WriteLine("Senha Invalida");
             }
-            for(int i=menor;i<=maior;i++){
-                Console.Write("{0} ",i);
-                soma = soma + i;
-
-            }
-            Console.WriteLine("Sum={0}",soma);
-            soma = 0;
         }
     }
 }
