@@ -4,31 +4,26 @@ class URI {
 
     static void Main(string[] args) { 
 
-        int M,N;
-        int soma=0,maior,menor;
+        int x,y;
+        int maior,menor;
         int opc = 0;
 
         while(opc != 1){
             string[] vetor = Console.ReadLine().Split(' ');
-            M = int.Parse(vetor[0]);
-            N = int.Parse(vetor[1]);
-            if(M <= 0 || N <= 0){
+            x = int.Parse(vetor[0]);
+            y = int.Parse(vetor[1]);
+            if(x == y){
                 break;
             }
-            if(M > N){
-                maior = M;
-                menor = N;
+            if(x > y){
+                maior = x;
+                menor = y;
+                Console.WriteLine("Decrescente");
             }else{
-                maior = N;
-                menor = M;
+                maior = y;
+                menor = x;
+                Console.WriteLine("Crescente");
             }
-            for(int i=menor;i<=maior;i++){
-                Console.Write("{0} ",i);
-                soma = soma + i;
-
-            }
-            Console.WriteLine("Sum={0}",soma);
-            soma = 0;
         }
     }
 }
