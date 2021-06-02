@@ -27,21 +27,22 @@ int main(){
     for(int i=0;i<N;i++){
         for(int j=0;j<K;j++){
             printf("  %i  ",cartela[i][j]);
+            vetor[i] = rand() % U;
+            if(vetor[i] == cartela[i][j]){
+                comparar[i]++;
+            }
+            if(comparar[i] == K){
+                printf("Cartela %i campea",i);
+            }
         }
         printf("\n");
     }
 
     for(int i =0;i<K;i++){
-        vetor[i] = rand() % U;
+        printf(" %i ",vetor[i]);
     }
 
-    for(int i=0;i<N;i++){
-        for(int j=0;j<K;j++){
-            if(vetor[i] == cartela[i][j]){
-                comparar[i] ++;
-            }
-        }
-    }
+
 
 
 
