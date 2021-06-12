@@ -2,17 +2,25 @@
 <h3 align = center><i><b> Repositorio dedicado a mostrar meus estudos sobre o C#</b></i> </h3>
 
 <p align="center">
- <b><a href="#objetivo">Introdução</a></b> |
+ <b><a href="#introdução">Introdução</a></b> |
  <b><a href="#tecnologias">Tecnologias</a></b> |
  <b><a href="#roadmap">Cursos</a></b> |
  <b><a href="#contribuicao">Em breve</a></b> |
  <b><a href="#SocialMedia">Social Media </a></b> |
  <b><a href="#autor">Autor</a>
 </p>
-
+ 
 ***
-
-##### SocialMedia
+#### Introdução
+ 
+ 
+ 
+***
+#### Tecnologias
+ 
+ 
+***
+#### SocialMedia
 
 :point_right: [Portfólio](https://iagoantunes.github.io/)
 
