@@ -10,7 +10,6 @@ class URI {
 
         nTestes = int.Parse(Console.ReadLine());
 
-        int[] n = new int [5];// n[5]
 
         while(nTestes>0){
             num = int.Parse(Console.ReadLine());
