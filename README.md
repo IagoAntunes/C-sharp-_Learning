@@ -2,40 +2,24 @@
 <h3 align = center><i><b> Repositorio dedicado a mostrar meus estudos sobre o C#</b></i> </h3>
 
 <p align="center">
- <a href="#objetivo">Introdução</a> |
-  <a href="#tecnologias">Tecnologias</a> |
- <a href="#roadmap">Cursos</a> |
- <a href="#contribuicao">Em breve</a> |
- <a href="#Social">Social Media </a> |
- <a href="#autor">Autor</a>
+ <b><a href="#objetivo">Introdução</a></b> |
+ <b><a href="#tecnologias">Tecnologias</a></b> |
+ <b><a href="#roadmap">Cursos</a></b> |
+ <b><a href="#contribuicao">Em breve</a></b> |
+ <b><a href="#SocialMedia">Social Media </a></b> |
+ <b><a href="#autor">Autor</a>
 </p>
 
 ***
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div href="#Social">
- 
-##### Rede Social:
+##### SocialMedia
 
 :point_right: [Portfólio](https://iagoantunes.github.io/)
 
 :point_right: [Instagram](https://www.instagram.com/iago_ferreira010/?hl=pt-br)
 
 :point_right: [Linkedin](https://www.linkedin.com/in/iago-antunes-5277131a5/)
-<div/>
+
  
 ***
 
