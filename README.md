@@ -10,16 +10,17 @@
  <b><a href="#autor">Autor</a>
 </p>
  
-***
-#### Introdução
+## Introdução
+
  Esse repósitorio tem como objetivo mostrar meu caminho de estudos na linguagem C#.
 
-***
-#### Tecnologias
- -C#
+## Tecnologias
+
+ - C#
  
-***
-#### Cursos
+## Cursos
+
+
 Alguns códigos foram feitos durante o começo da minha graduação. 
 
 | Curso                      | Descrição                                                |
@@ -28,8 +29,7 @@ Alguns códigos foram feitos durante o começo da minha graduação.
 | [MicrosoftLearn](https://docs.microsoft.com/pt-br/users/iagoferreira-4173/)          | Plataforma de Estudos Microsoft     |
 | [Udemy]()          | Cursos Udemy     |
  
-***
-#### SocialMedia
+## SocialMedia
 
 :point_right: [Portfólio](https://iagoantunes.github.io/)
 
@@ -37,7 +37,8 @@ Alguns códigos foram feitos durante o começo da minha graduação.
 
 :point_right: [Linkedin](https://www.linkedin.com/in/iago-antunes-5277131a5/)
 
+## Autor
  
-***
-
+Iago Antunes Ferreira
+ 
 ![Astron](https://user-images.githubusercontent.com/63758301/85813381-6b556980-b739-11ea-91b5-740c1f91a5c4.jpg)
