@@ -8,7 +8,6 @@ class URI {
        int num;
        int ctg;
 
-        int[] n = new int [5];
 
         nTestes = int.Parse(Console.ReadLine());
         while(nTestes > 0){
