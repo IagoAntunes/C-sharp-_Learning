@@ -19,3 +19,7 @@
   <h4>Calculadora </h4>
 
 ![](https://imgur.com/rUCnS6d.png)
+
+<h4>Calculadora Média</h4>
+
+![](https://imgur.com/rZP19nI.png)
