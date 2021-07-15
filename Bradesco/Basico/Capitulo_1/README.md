@@ -27,3 +27,6 @@
 <h4>Calculadora Média</h4>
 
 ![](https://imgur.com/yNsM0zp.png)
+
+<h4>Utilizando 2 Forms</h4>
+![](https://imgur.com/LH85AkM.png)
