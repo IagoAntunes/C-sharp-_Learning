@@ -1,0 +1,6 @@
+
+
+/* Message Box */
+MessageBox.show('Mensagem','Titulo Mensagem',Tipo do botao,Tipo do icone)
+MessageBoxButtons.''  - > Mostrara as opções de botao 
+MessageBoxIcon.''  - > Mostrara as opções de Icone 
