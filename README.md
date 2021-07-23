@@ -17,6 +17,13 @@
 ## Tecnologias
 
  - C#
+ - Windows Forms
+ 
+## Ferramentas
+
+ - Visual Studio
+ - Visual Studio Code
+ - SQL Server Management Studio
  
 ## Cursos
 
@@ -28,6 +35,8 @@ Alguns códigos foram feitos durante o começo da minha graduação.
 | [CfbCursos](https://www.youtube.com/watch?v=dVzJ3bx68FA&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi)|Playlist Youtube   |
 | [MicrosoftLearn](https://docs.microsoft.com/pt-br/users/iagoferreira-4173/)          | Plataforma de Estudos Microsoft     |
 | [Udemy]()          | Cursos Udemy     |
+ |[Brackeys](https://www.youtube.com/c/Brackeys/videos)| Canal dos Estados Unidos sobre programação
+ |[Bradesco]()| Bradesco Escola Virtual
  
 ## SocialMedia
 
