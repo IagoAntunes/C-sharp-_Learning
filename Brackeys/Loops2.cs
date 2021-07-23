@@ -5,6 +5,7 @@ class minhaClasse{
 
     static void Main() { 
 
+        //Instancia para Sortear numeros
        Random numberGen = new Random();
 
        int roll = 0;
@@ -15,6 +16,7 @@ class minhaClasse{
        while(roll != 6){
            Console.ReadKey();
 
+            //Sorteia numeros entre 1 - 7
            roll = numberGen.Next(1,7);
            Console.WriteLine("You rolled: " + roll);
            attempts++;

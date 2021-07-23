@@ -7,14 +7,6 @@ class minhaClasse{
         MeetAlien();
         Console.WriteLine("---------");
         MeetAlien();
-
-
-
-
-
-
-
-
     }
     static void MeetAlien(){
 
