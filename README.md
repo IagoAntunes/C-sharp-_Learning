@@ -36,6 +36,7 @@ Alguns códigos foram feitos durante o começo da minha graduação.
 | [MicrosoftLearn](https://docs.microsoft.com/pt-br/users/iagoferreira-4173/)          | Plataforma de Estudos Microsoft     |
 | [Udemy]()          | Cursos Udemy     |
  |[Brackeys](https://www.youtube.com/c/Brackeys/videos)| Canal dos Estados Unidos sobre programação
+ |[Bradesco]()| Bradesco Escola Virtual
  
 ## SocialMedia
 
