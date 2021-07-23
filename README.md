@@ -17,6 +17,13 @@
 ## Tecnologias
 
  - C#
+ - Windows Forms
+ 
+## Ferramentas
+
+ - Visual Studio
+ - Visual Studio Code
+ - SQL Server Management Studio
  
 ## Cursos
 
