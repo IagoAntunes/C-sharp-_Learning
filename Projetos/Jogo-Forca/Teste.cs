@@ -19,13 +19,18 @@ namespace Game
         }
         public string palavra;
         public string palavra2;
+        
+        public int ndicas;
+        //int[] repetido = new int[10] { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+        int vComputador;
+        int vUsuario;
 
-        public void Computador()
-        {
+        public void Computador(){
+            //PARTE 1
             //AQUI EU FAÇO O COMPUTADOR ESCOLHER UMA PALAVRA ALEATORIA;
-            string[] nomes = new string[3] { "Mac", "Jessica", "MiMi" };
-
-
+            lb_t1.Text = "";
+            string[] nomes = new string[7] { "Carro", "Cavalo", "Peixe", "Futebol", "Olimpiadas","Melancia","Avião" };
+            string seila = "";
             int indice;
 
             Random sort = new Random();
@@ -35,40 +40,53 @@ namespace Game
             palavra = nomes[indice];
             palavra2 = palavra;
 
-            lb_PC.Text = palavra.ToString();
+            lb_PC.Text = "R: " + palavra.ToString();
 
-            //--------------------------
+            //------------PARTE 2  ---------
+            //PARA TAMPAR A PALAVRA COM ' ** '
 
             char[] teste = palavra2.ToCharArray();
 
-            string seila;
-            seila = ".";
+            
+            
+            
+            //Colocando * para representar cada letra da palavra
             for (int i = 0; i < palavra2.Length; i++)
             {
                 teste[i] = '*';
             }
+            //Juntando os * 
             for (int i = 0; i < palavra2.Length; i++)
             {
                 seila = seila + teste[i].ToString();
             }
-            lb_user.Text = seila.ToString();
+            //Mostrando palavra censurada no LABEL
+            lb_t1.Text = seila.ToString();
+            //lb_t2.Text = teste[1].ToString();
         }
 
-        private void btn_Tentar_Click(object sender, EventArgs e)
-        {
+        private void btn_Tentar_Click(object sender, EventArgs e){
+            //PARTE 3
+            //Objetivo de  pegar a palavra digitada pelo usuário e comprar com o computador
             string Tentativa;
 
-            Tentativa = txt_Try.ToString();
+            //Pegando palavra do TextBox
+            Tentativa = txt_Try.Text;
 
-            if (string.Equals(txt_Try.ToString(), palavra)) {
+            //Comparando com a palavra gerada pelo computador
+            if (string.Equals(txt_Try.Text, palavra)) {
                 MessageBox.Show("Palavras Iguais");
+                vUsuario++;
+                Computador();
             }
             else
             {
                 MessageBox.Show("Palavras Diferentes");
+                vComputador++;
             }
 
-            lb_t1.Text = Tentativa.ToString();
+            lb_vRobo.Text = vComputador.ToString();
+            lb_Vuser.Text = vUsuario.ToString();
             //lb_t2.Text = palavra.ToString();
         }
 
@@ -76,5 +94,40 @@ namespace Game
         {
 
         }
+
+        /*private void btn_Dica_Click(object sender, EventArgs e)
+        {
+
+            // int[] Idicas = new int[palavra2.Length];
+
+
+            lb_user.Text = palavra2[0].ToString();
+
+            seila = seila.Replace(seila[0],palavra2[0]);
+                  repetido[0] = 1;
+                 lb_t1.Text = seila.ToString();
+            ndicas++;
+           
+            
+
+
+
+
+        }*/
+/*
+ *         for (int i = ndicas; i < palavra2.Length; i++)
+    {
+
+        if (repetido[i] == 0 ) 
+        {
+
+            palavra2 = seila.Replace(seila[i],palavra2[i]);
+            repetido[i] = 1;
+            lb_t1.Text = palavra2.ToString();
+
+        }*/
+
     }
+
 }
+
