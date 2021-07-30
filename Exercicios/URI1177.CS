@@ -4,9 +4,7 @@ class URI {
     // URI 1177
     static void Main() { 
         
-        int t;
-
-        t = int.Parse(Console.ReadLine());
+        int t = int.Parse(Console.ReadLine());
 
         int[] n = new int[1000];
         int[] vetor = new int[t];
@@ -27,7 +25,5 @@ class URI {
         for(int i =0;i<1000;i++){
             Console.WriteLine("N[{0}] = {1}",i,n[i]);
         }
-
-
     }
 }
