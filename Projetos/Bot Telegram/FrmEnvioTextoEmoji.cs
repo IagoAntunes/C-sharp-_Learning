@@ -30,15 +30,8 @@ namespace BotTelegram1
                 var telegramBot = new TelegramBotClient("1755387732:AAHWVTH6AeabrHiEA2R73OUK52oN6gZw9i0");
                 var strMensagem = txtMensagem.Text.Trim();
 
-                if (strMensagem.Contains(":white_check_mark:")){
-                    strMensagem = strMensagem.Replace(":white_check_mark:",char.ConvertFromUtf32(0x2705));
-                }
-                if (strMensagem.Contains(":grin:"))
-                {
-                    strMensagem = strMensagem.Replace(":grin:", char.ConvertFromUtf32(0x1F601));
-                }
+                strMensagem = EmojiConfigcs.Config(strMensagem);
 
-                
                 await telegramBot.SendTextMessageAsync(chatId: "-1001506779457", text: strMensagem, parseMode: Telegram.Bot.Types.Enums.ParseMode.Html);
                 MessageBox.Show("Mensagem enviada com sucesso", this.Text, MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
@@ -52,8 +45,6 @@ namespace BotTelegram1
             {
                 txtMensagem.Text = string.Empty;
             }
-
-
         }
     }
 }
