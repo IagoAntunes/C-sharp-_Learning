@@ -15,12 +15,5 @@ class URI {
             Console.WriteLine(vetor[i]);
         }
         
-        
-
-        
-        
-        
-
     }
-
 }
