@@ -18,7 +18,6 @@ class URI {
                 fora++;
             }
         }
-
         Console.WriteLine("{0} in",dentro);
         Console.WriteLine("{0} out",fora);
     }
