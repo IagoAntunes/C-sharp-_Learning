@@ -5,14 +5,7 @@ class Pessoa{
 
     public int escolha;
     public string nome;
-
-
-
-
-
 }
-
-
 
 class minhaClasse{
 
@@ -39,10 +32,8 @@ class minhaClasse{
         }else if(p1 == 3 && p2 == 3){
             Console.WriteLine("EMPATE");
         }
-
     }
-   
-   
+
     static void Main() { 
 
         Pessoa p1 = new Pessoa();
@@ -74,13 +65,7 @@ class minhaClasse{
             Console.Clear();
 
         }while(opcao != 1);
-
-
-
     }
-
-
-
 }
 
 
