@@ -39,7 +39,7 @@ namespace Criandu
             Console.WriteLine("Obrigado por utiliar nossos serviços!!");
             Console.WriteLine();
         }
-
+        //METODO TRANSFERIR
         private static void Transferir()
         {
             Console.Write("Digite o numero da Conta:");
@@ -114,7 +114,7 @@ namespace Criandu
 
             listContas.Add(novaConta);
         }
-
+        //OPCAO DO USUARIO
         private static string ObterOpcaoUsuario(){
             Console.WriteLine();
             Console.WriteLine("DIO Bank a seu disporr!!");
@@ -133,9 +133,5 @@ namespace Criandu
             Console.WriteLine();
             return opcaoUsuario;
         }
-
-
-
-    
     }
 }
