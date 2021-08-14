@@ -1,0 +1,16 @@
+C:\Github_P\C-sharp-_Learning\BotcampDio\C#\Criandu\bin\Debug\net5.0\Criandu.exe
+C:\Github_P\C-sharp-_Learning\BotcampDio\C#\Criandu\bin\Debug\net5.0\Criandu.deps.json
+C:\Github_P\C-sharp-_Learning\BotcampDio\C#\Criandu\bin\Debug\net5.0\Criandu.runtimeconfig.json
+C:\Github_P\C-sharp-_Learning\BotcampDio\C#\Criandu\bin\Debug\net5.0\Criandu.runtimeconfig.dev.json
+C:\Github_P\C-sharp-_Learning\BotcampDio\C#\Criandu\bin\Debug\net5.0\Criandu.dll
+C:\Github_P\C-sharp-_Learning\BotcampDio\C#\Criandu\bin\Debug\net5.0\ref\Criandu.dll
+C:\Github_P\C-sharp-_Learning\BotcampDio\C#\Criandu\bin\Debug\net5.0\Criandu.pdb
+C:\Github_P\C-sharp-_Learning\BotcampDio\C#\Criandu\obj\Debug\net5.0\Criandu.csproj.AssemblyReference.cache
+C:\Github_P\C-sharp-_Learning\BotcampDio\C#\Criandu\obj\Debug\net5.0\Criandu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github_P\C-sharp-_Learning\BotcampDio\C#\Criandu\obj\Debug\net5.0\Criandu.AssemblyInfoInputs.cache
+C:\Github_P\C-sharp-_Learning\BotcampDio\C#\Criandu\obj\Debug\net5.0\Criandu.AssemblyInfo.cs
+C:\Github_P\C-sharp-_Learning\BotcampDio\C#\Criandu\obj\Debug\net5.0\Criandu.csproj.CoreCompileInputs.cache
+C:\Github_P\C-sharp-_Learning\BotcampDio\C#\Criandu\obj\Debug\net5.0\Criandu.dll
+C:\Github_P\C-sharp-_Learning\BotcampDio\C#\Criandu\obj\Debug\net5.0\ref\Criandu.dll
+C:\Github_P\C-sharp-_Learning\BotcampDio\C#\Criandu\obj\Debug\net5.0\Criandu.pdb
+C:\Github_P\C-sharp-_Learning\BotcampDio\C#\Criandu\obj\Debug\net5.0\Criandu.genruntimeconfig.cache
