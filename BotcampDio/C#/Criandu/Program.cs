@@ -19,7 +19,7 @@ namespace Criandu
                         InserirConta();
                         break;
                     case "3":
-                        //Transferir();
+                        Transferir();
                         break;
                     case "4":
                         Sacar();
@@ -39,13 +39,28 @@ namespace Criandu
             Console.WriteLine("Obrigado por utiliar nossos serviços!!");
             Console.WriteLine();
         }
+
+        private static void Transferir()
+        {
+            Console.Write("Digite o numero da Conta:");
+            int indiceContaOrigem = int.Parse(Console.ReadLine());
+
+            Console.Write("Digite o numero da conta de destino: ");
+            int indiceContaDestino = int.Parse(Console.ReadLine());
+
+            Console.Write("Digite o numero da conta de destino: ");
+            double valorTransferencia= double.Parse(Console.ReadLine());
+
+            listContas[indiceContaOrigem].Transferir(valorTransferencia,listContas[indiceContaDestino]);
+        }
+
         //METODO DEPOSITAR
         private static void Depositar()
         {
             Console.Write("Digite o numero da Conta:");
             int indiceConta = int.Parse(Console.ReadLine());
 
-            Console.Write("Digite o valor a ser sacado: ");
+            Console.Write("Digite o valor a ser Depositado: ");
             double valorDeposito = double.Parse(Console.ReadLine());
 
             listContas[indiceConta].Depositar(valorDeposito);
