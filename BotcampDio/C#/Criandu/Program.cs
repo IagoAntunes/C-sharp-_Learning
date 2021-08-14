@@ -9,11 +9,11 @@ namespace Criandu
         static void Main(string[] args)
         {
             string opcaoUsuario = ObterOpcaoUsuario();
-
+            //ESCOLHAS
             while(opcaoUsuario.ToUpper() != "X"){
                 switch(opcaoUsuario){
                     case "1":
-                        //ListarContas();
+                        ListarContas();
                         break;
                     case "2":
                         InserirConta();
@@ -22,10 +22,10 @@ namespace Criandu
                         //Transferir();
                         break;
                     case "4":
-                        //Sacar();
+                        Sacar();
                         break;
                     case "5":
-                        //Depositar();
+                        Depositar();
                         break;
                     case "C":
                         Console.Clear();
@@ -39,7 +39,43 @@ namespace Criandu
             Console.WriteLine("Obrigado por utiliar nossos serviços!!");
             Console.WriteLine();
         }
+        //METODO DEPOSITAR
+        private static void Depositar()
+        {
+            Console.Write("Digite o numero da Conta:");
+            int indiceConta = int.Parse(Console.ReadLine());
 
+            Console.Write("Digite o valor a ser sacado: ");
+            double valorDeposito = double.Parse(Console.ReadLine());
+
+            listContas[indiceConta].Depositar(valorDeposito);
+        }
+        //METODO SACAR
+        private static void Sacar()
+        {
+            Console.Write("Digite o numero da Conta:");
+            int indiceConta = int.Parse(Console.ReadLine());
+
+            Console.Write("Digite o valor a ser sacado: ");
+            double valorSaque = double.Parse(Console.ReadLine());
+
+            listContas[indiceConta].Sacar(valorSaque);
+        }
+        //MOSTRAR CONTAS
+        private static void ListarContas()
+        {
+            Console.WriteLine("Listar Conta");
+            if(listContas.Count == 0){
+                Console.WriteLine("Nenhuma conta cadastrada");
+                return;
+            }
+            for(int i = 0;i < listContas.Count;i++){
+                Conta conta= listContas[i];
+                Console.Write("#{0} - ",i);
+                Console.WriteLine(conta);
+            }
+        }
+        //INSERIR
         private static void InserirConta()
         {
             Console.WriteLine("Inserir nova conta");
