@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace testeef.odels{
+namespace testef.odels{
     public class Category{
         [key]
         public int Id {get; set;}
