@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Github_P\\C-sharp-_Learning\\POO\\C-sharp-_Learning.csproj": {}
+    "C:\\Github_P\\C-sharp-_Learning\\POO\\02Metodos\\02Metodos.csproj": {}
   },
   "projects": {
-    "C:\\Github_P\\C-sharp-_Learning\\POO\\C-sharp-_Learning.csproj": {
+    "C:\\Github_P\\C-sharp-_Learning\\POO\\02Metodos\\02Metodos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Github_P\\C-sharp-_Learning\\POO\\C-sharp-_Learning.csproj",
-        "projectName": "C-sharp-_Learning",
-        "projectPath": "C:\\Github_P\\C-sharp-_Learning\\POO\\C-sharp-_Learning.csproj",
+        "projectUniqueName": "C:\\Github_P\\C-sharp-_Learning\\POO\\02Metodos\\02Metodos.csproj",
+        "projectName": "02Metodos",
+        "projectPath": "C:\\Github_P\\C-sharp-_Learning\\POO\\02Metodos\\02Metodos.csproj",
         "packagesPath": "C:\\Users\\iagoa\\.nuget\\packages\\",
-        "outputPath": "C:\\Github_P\\C-sharp-_Learning\\POO\\obj\\",
+        "outputPath": "C:\\Github_P\\C-sharp-_Learning\\POO\\02Metodos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iagoa\\AppData\\Roaming\\NuGet\\NuGet.Config",

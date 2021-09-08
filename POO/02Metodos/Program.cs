@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace C_sharp__Learning
+namespace _02Metodos
 {
     class Program
     {
