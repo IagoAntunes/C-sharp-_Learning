@@ -1,0 +1,16 @@
+C:\Github_P\C-sharp-_Learning\POO\08GetSet\bin\Debug\net5.0\08GetSet.exe
+C:\Github_P\C-sharp-_Learning\POO\08GetSet\bin\Debug\net5.0\08GetSet.deps.json
+C:\Github_P\C-sharp-_Learning\POO\08GetSet\bin\Debug\net5.0\08GetSet.runtimeconfig.json
+C:\Github_P\C-sharp-_Learning\POO\08GetSet\bin\Debug\net5.0\08GetSet.runtimeconfig.dev.json
+C:\Github_P\C-sharp-_Learning\POO\08GetSet\bin\Debug\net5.0\08GetSet.dll
+C:\Github_P\C-sharp-_Learning\POO\08GetSet\bin\Debug\net5.0\ref\08GetSet.dll
+C:\Github_P\C-sharp-_Learning\POO\08GetSet\bin\Debug\net5.0\08GetSet.pdb
+C:\Github_P\C-sharp-_Learning\POO\08GetSet\obj\Debug\net5.0\08GetSet.csproj.AssemblyReference.cache
+C:\Github_P\C-sharp-_Learning\POO\08GetSet\obj\Debug\net5.0\08GetSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github_P\C-sharp-_Learning\POO\08GetSet\obj\Debug\net5.0\08GetSet.AssemblyInfoInputs.cache
+C:\Github_P\C-sharp-_Learning\POO\08GetSet\obj\Debug\net5.0\08GetSet.AssemblyInfo.cs
+C:\Github_P\C-sharp-_Learning\POO\08GetSet\obj\Debug\net5.0\08GetSet.csproj.CoreCompileInputs.cache
+C:\Github_P\C-sharp-_Learning\POO\08GetSet\obj\Debug\net5.0\08GetSet.dll
+C:\Github_P\C-sharp-_Learning\POO\08GetSet\obj\Debug\net5.0\ref\08GetSet.dll
+C:\Github_P\C-sharp-_Learning\POO\08GetSet\obj\Debug\net5.0\08GetSet.pdb
+C:\Github_P\C-sharp-_Learning\POO\08GetSet\obj\Debug\net5.0\08GetSet.genruntimeconfig.cache
