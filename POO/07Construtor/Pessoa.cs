@@ -10,10 +10,4 @@ class Pessoa{
     public Pessoa(String nome){
         Console.WriteLine("Ola + " + nome);
     }
-
-
-
-
-
-
 }
