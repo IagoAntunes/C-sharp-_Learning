@@ -1,0 +1,16 @@
+C:\Github_P\C-sharp-_Learning\POO\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.exe
+C:\Github_P\C-sharp-_Learning\POO\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.deps.json
+C:\Github_P\C-sharp-_Learning\POO\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.runtimeconfig.json
+C:\Github_P\C-sharp-_Learning\POO\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.runtimeconfig.dev.json
+C:\Github_P\C-sharp-_Learning\POO\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.dll
+C:\Github_P\C-sharp-_Learning\POO\06Encapsulamento\bin\Debug\net5.0\ref\06Encapsulamento.dll
+C:\Github_P\C-sharp-_Learning\POO\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.pdb
+C:\Github_P\C-sharp-_Learning\POO\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.csproj.AssemblyReference.cache
+C:\Github_P\C-sharp-_Learning\POO\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github_P\C-sharp-_Learning\POO\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.AssemblyInfoInputs.cache
+C:\Github_P\C-sharp-_Learning\POO\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.AssemblyInfo.cs
+C:\Github_P\C-sharp-_Learning\POO\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Github_P\C-sharp-_Learning\POO\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.dll
+C:\Github_P\C-sharp-_Learning\POO\06Encapsulamento\obj\Debug\net5.0\ref\06Encapsulamento.dll
+C:\Github_P\C-sharp-_Learning\POO\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.pdb
+C:\Github_P\C-sharp-_Learning\POO\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.genruntimeconfig.cache

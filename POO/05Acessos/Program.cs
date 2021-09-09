@@ -9,8 +9,8 @@ namespace _05Acessos
             Produto produto = new Produto();
 
             produto.num1 = 10;
-
-
+            produto.num6 = 5;
+            
 
         }
     }
