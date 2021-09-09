@@ -1,15 +1,18 @@
 ﻿using System;
 
-namespace _02Metodos
+namespace _04Exercicio
 {
     class Program
     {
         static void Main(string[] args)
         {
             Pessoa pessoa = new Pessoa();
-            pessoa.apresentar(23);
 
-            //Console.WriteLine("Hello World!");
+            pessoa.peso = 80;
+            pessoa.altura = 1.80;
+
+            pessoa.calculo();
+            pessoa.mensagem();
         }
     }
 }

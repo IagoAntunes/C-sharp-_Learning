@@ -1,0 +1,16 @@
+C:\Github_P\C-sharp-_Learning\POO\03ExerciciosE\obj\Debug\net5.0\03ExerciciosE.csproj.AssemblyReference.cache
+C:\Github_P\C-sharp-_Learning\POO\03ExerciciosE\obj\Debug\net5.0\03ExerciciosE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github_P\C-sharp-_Learning\POO\03ExerciciosE\obj\Debug\net5.0\03ExerciciosE.AssemblyInfoInputs.cache
+C:\Github_P\C-sharp-_Learning\POO\03ExerciciosE\obj\Debug\net5.0\03ExerciciosE.AssemblyInfo.cs
+C:\Github_P\C-sharp-_Learning\POO\03ExerciciosE\obj\Debug\net5.0\03ExerciciosE.csproj.CoreCompileInputs.cache
+C:\Github_P\C-sharp-_Learning\POO\03ExerciciosE\bin\Debug\net5.0\03ExerciciosE.exe
+C:\Github_P\C-sharp-_Learning\POO\03ExerciciosE\bin\Debug\net5.0\03ExerciciosE.deps.json
+C:\Github_P\C-sharp-_Learning\POO\03ExerciciosE\bin\Debug\net5.0\03ExerciciosE.runtimeconfig.json
+C:\Github_P\C-sharp-_Learning\POO\03ExerciciosE\bin\Debug\net5.0\03ExerciciosE.runtimeconfig.dev.json
+C:\Github_P\C-sharp-_Learning\POO\03ExerciciosE\bin\Debug\net5.0\03ExerciciosE.dll
+C:\Github_P\C-sharp-_Learning\POO\03ExerciciosE\bin\Debug\net5.0\ref\03ExerciciosE.dll
+C:\Github_P\C-sharp-_Learning\POO\03ExerciciosE\bin\Debug\net5.0\03ExerciciosE.pdb
+C:\Github_P\C-sharp-_Learning\POO\03ExerciciosE\obj\Debug\net5.0\03ExerciciosE.dll
+C:\Github_P\C-sharp-_Learning\POO\03ExerciciosE\obj\Debug\net5.0\ref\03ExerciciosE.dll
+C:\Github_P\C-sharp-_Learning\POO\03ExerciciosE\obj\Debug\net5.0\03ExerciciosE.pdb
+C:\Github_P\C-sharp-_Learning\POO\03ExerciciosE\obj\Debug\net5.0\03ExerciciosE.genruntimeconfig.cache

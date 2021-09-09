@@ -1,0 +1,16 @@
+C:\Github_P\C-sharp-_Learning\POO\02Metodos\bin\Debug\net5.0\02Metodos.exe
+C:\Github_P\C-sharp-_Learning\POO\02Metodos\bin\Debug\net5.0\02Metodos.deps.json
+C:\Github_P\C-sharp-_Learning\POO\02Metodos\bin\Debug\net5.0\02Metodos.runtimeconfig.json
+C:\Github_P\C-sharp-_Learning\POO\02Metodos\bin\Debug\net5.0\02Metodos.runtimeconfig.dev.json
+C:\Github_P\C-sharp-_Learning\POO\02Metodos\bin\Debug\net5.0\02Metodos.dll
+C:\Github_P\C-sharp-_Learning\POO\02Metodos\bin\Debug\net5.0\ref\02Metodos.dll
+C:\Github_P\C-sharp-_Learning\POO\02Metodos\bin\Debug\net5.0\02Metodos.pdb
+C:\Github_P\C-sharp-_Learning\POO\02Metodos\obj\Debug\net5.0\02Metodos.csproj.AssemblyReference.cache
+C:\Github_P\C-sharp-_Learning\POO\02Metodos\obj\Debug\net5.0\02Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github_P\C-sharp-_Learning\POO\02Metodos\obj\Debug\net5.0\02Metodos.AssemblyInfoInputs.cache
+C:\Github_P\C-sharp-_Learning\POO\02Metodos\obj\Debug\net5.0\02Metodos.AssemblyInfo.cs
+C:\Github_P\C-sharp-_Learning\POO\02Metodos\obj\Debug\net5.0\02Metodos.csproj.CoreCompileInputs.cache
+C:\Github_P\C-sharp-_Learning\POO\02Metodos\obj\Debug\net5.0\02Metodos.dll
+C:\Github_P\C-sharp-_Learning\POO\02Metodos\obj\Debug\net5.0\ref\02Metodos.dll
+C:\Github_P\C-sharp-_Learning\POO\02Metodos\obj\Debug\net5.0\02Metodos.pdb
+C:\Github_P\C-sharp-_Learning\POO\02Metodos\obj\Debug\net5.0\02Metodos.genruntimeconfig.cache

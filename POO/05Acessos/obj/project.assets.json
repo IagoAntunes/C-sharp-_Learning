@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github_P\\C-sharp-_Learning\\C-sharp-_Learning.csproj",
-      "projectName": "C-sharp-_Learning",
-      "projectPath": "C:\\Github_P\\C-sharp-_Learning\\C-sharp-_Learning.csproj",
+      "projectUniqueName": "C:\\Github_P\\C-sharp-_Learning\\POO\\05Acessos\\05Acessos.csproj",
+      "projectName": "05Acessos",
+      "projectPath": "C:\\Github_P\\C-sharp-_Learning\\POO\\05Acessos\\05Acessos.csproj",
       "packagesPath": "C:\\Users\\iagoa\\.nuget\\packages\\",
-      "outputPath": "C:\\Github_P\\C-sharp-_Learning\\obj\\",
+      "outputPath": "C:\\Github_P\\C-sharp-_Learning\\POO\\05Acessos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iagoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
