@@ -11,9 +11,6 @@ namespace _08GetSet
             pessoa.Nome = "ranfal";
             Console.WriteLine("{0}",pessoa.Nome);
 
-
-
-
         }
     }
 }
