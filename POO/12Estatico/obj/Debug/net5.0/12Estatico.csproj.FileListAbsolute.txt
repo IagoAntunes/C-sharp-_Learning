@@ -1,0 +1,16 @@
+C:\Github_P\C-sharp-_Learning\POO\12Estatico\bin\Debug\net5.0\12Estatico.exe
+C:\Github_P\C-sharp-_Learning\POO\12Estatico\bin\Debug\net5.0\12Estatico.deps.json
+C:\Github_P\C-sharp-_Learning\POO\12Estatico\bin\Debug\net5.0\12Estatico.runtimeconfig.json
+C:\Github_P\C-sharp-_Learning\POO\12Estatico\bin\Debug\net5.0\12Estatico.runtimeconfig.dev.json
+C:\Github_P\C-sharp-_Learning\POO\12Estatico\bin\Debug\net5.0\12Estatico.dll
+C:\Github_P\C-sharp-_Learning\POO\12Estatico\bin\Debug\net5.0\ref\12Estatico.dll
+C:\Github_P\C-sharp-_Learning\POO\12Estatico\bin\Debug\net5.0\12Estatico.pdb
+C:\Github_P\C-sharp-_Learning\POO\12Estatico\obj\Debug\net5.0\12Estatico.csproj.AssemblyReference.cache
+C:\Github_P\C-sharp-_Learning\POO\12Estatico\obj\Debug\net5.0\12Estatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github_P\C-sharp-_Learning\POO\12Estatico\obj\Debug\net5.0\12Estatico.AssemblyInfoInputs.cache
+C:\Github_P\C-sharp-_Learning\POO\12Estatico\obj\Debug\net5.0\12Estatico.AssemblyInfo.cs
+C:\Github_P\C-sharp-_Learning\POO\12Estatico\obj\Debug\net5.0\12Estatico.csproj.CoreCompileInputs.cache
+C:\Github_P\C-sharp-_Learning\POO\12Estatico\obj\Debug\net5.0\12Estatico.dll
+C:\Github_P\C-sharp-_Learning\POO\12Estatico\obj\Debug\net5.0\ref\12Estatico.dll
+C:\Github_P\C-sharp-_Learning\POO\12Estatico\obj\Debug\net5.0\12Estatico.pdb
+C:\Github_P\C-sharp-_Learning\POO\12Estatico\obj\Debug\net5.0\12Estatico.genruntimeconfig.cache
