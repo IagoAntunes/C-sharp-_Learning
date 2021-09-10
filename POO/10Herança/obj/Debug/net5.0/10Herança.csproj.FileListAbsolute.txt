@@ -1,0 +1,16 @@
+C:\Github_P\C-sharp-_Learning\POO\10Herança\bin\Debug\net5.0\10Herança.exe
+C:\Github_P\C-sharp-_Learning\POO\10Herança\bin\Debug\net5.0\10Herança.deps.json
+C:\Github_P\C-sharp-_Learning\POO\10Herança\bin\Debug\net5.0\10Herança.runtimeconfig.json
+C:\Github_P\C-sharp-_Learning\POO\10Herança\bin\Debug\net5.0\10Herança.runtimeconfig.dev.json
+C:\Github_P\C-sharp-_Learning\POO\10Herança\bin\Debug\net5.0\10Herança.dll
+C:\Github_P\C-sharp-_Learning\POO\10Herança\bin\Debug\net5.0\ref\10Herança.dll
+C:\Github_P\C-sharp-_Learning\POO\10Herança\bin\Debug\net5.0\10Herança.pdb
+C:\Github_P\C-sharp-_Learning\POO\10Herança\obj\Debug\net5.0\10Herança.csproj.AssemblyReference.cache
+C:\Github_P\C-sharp-_Learning\POO\10Herança\obj\Debug\net5.0\10Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github_P\C-sharp-_Learning\POO\10Herança\obj\Debug\net5.0\10Herança.AssemblyInfoInputs.cache
+C:\Github_P\C-sharp-_Learning\POO\10Herança\obj\Debug\net5.0\10Herança.AssemblyInfo.cs
+C:\Github_P\C-sharp-_Learning\POO\10Herança\obj\Debug\net5.0\10Herança.csproj.CoreCompileInputs.cache
+C:\Github_P\C-sharp-_Learning\POO\10Herança\obj\Debug\net5.0\10Herança.dll
+C:\Github_P\C-sharp-_Learning\POO\10Herança\obj\Debug\net5.0\ref\10Herança.dll
+C:\Github_P\C-sharp-_Learning\POO\10Herança\obj\Debug\net5.0\10Herança.pdb
+C:\Github_P\C-sharp-_Learning\POO\10Herança\obj\Debug\net5.0\10Herança.genruntimeconfig.cache
