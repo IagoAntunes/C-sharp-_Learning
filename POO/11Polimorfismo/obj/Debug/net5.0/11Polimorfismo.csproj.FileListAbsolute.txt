@@ -1,0 +1,5 @@
+C:\Github_P\C-sharp-_Learning\POO\11Polimorfismo\obj\Debug\net5.0\11Polimorfismo.csproj.AssemblyReference.cache
+C:\Github_P\C-sharp-_Learning\POO\11Polimorfismo\obj\Debug\net5.0\11Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github_P\C-sharp-_Learning\POO\11Polimorfismo\obj\Debug\net5.0\11Polimorfismo.AssemblyInfoInputs.cache
+C:\Github_P\C-sharp-_Learning\POO\11Polimorfismo\obj\Debug\net5.0\11Polimorfismo.AssemblyInfo.cs
+C:\Github_P\C-sharp-_Learning\POO\11Polimorfismo\obj\Debug\net5.0\11Polimorfismo.csproj.CoreCompileInputs.cache
