@@ -1,0 +1,16 @@
+C:\Github_P\C-sharp-_Learning\POO\13Abstração\bin\Debug\net5.0\13Abstração.exe
+C:\Github_P\C-sharp-_Learning\POO\13Abstração\bin\Debug\net5.0\13Abstração.deps.json
+C:\Github_P\C-sharp-_Learning\POO\13Abstração\bin\Debug\net5.0\13Abstração.runtimeconfig.json
+C:\Github_P\C-sharp-_Learning\POO\13Abstração\bin\Debug\net5.0\13Abstração.runtimeconfig.dev.json
+C:\Github_P\C-sharp-_Learning\POO\13Abstração\bin\Debug\net5.0\13Abstração.dll
+C:\Github_P\C-sharp-_Learning\POO\13Abstração\bin\Debug\net5.0\ref\13Abstração.dll
+C:\Github_P\C-sharp-_Learning\POO\13Abstração\bin\Debug\net5.0\13Abstração.pdb
+C:\Github_P\C-sharp-_Learning\POO\13Abstração\obj\Debug\net5.0\13Abstração.csproj.AssemblyReference.cache
+C:\Github_P\C-sharp-_Learning\POO\13Abstração\obj\Debug\net5.0\13Abstração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github_P\C-sharp-_Learning\POO\13Abstração\obj\Debug\net5.0\13Abstração.AssemblyInfoInputs.cache
+C:\Github_P\C-sharp-_Learning\POO\13Abstração\obj\Debug\net5.0\13Abstração.AssemblyInfo.cs
+C:\Github_P\C-sharp-_Learning\POO\13Abstração\obj\Debug\net5.0\13Abstração.csproj.CoreCompileInputs.cache
+C:\Github_P\C-sharp-_Learning\POO\13Abstração\obj\Debug\net5.0\13Abstração.dll
+C:\Github_P\C-sharp-_Learning\POO\13Abstração\obj\Debug\net5.0\ref\13Abstração.dll
+C:\Github_P\C-sharp-_Learning\POO\13Abstração\obj\Debug\net5.0\13Abstração.pdb
+C:\Github_P\C-sharp-_Learning\POO\13Abstração\obj\Debug\net5.0\13Abstração.genruntimeconfig.cache
