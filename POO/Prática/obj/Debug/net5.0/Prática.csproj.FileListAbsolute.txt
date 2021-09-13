@@ -1,0 +1,16 @@
+C:\Github_P\C-sharp-_Learning\POO\Prática\obj\Debug\net5.0\Prática.csproj.AssemblyReference.cache
+C:\Github_P\C-sharp-_Learning\POO\Prática\obj\Debug\net5.0\Prática.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github_P\C-sharp-_Learning\POO\Prática\obj\Debug\net5.0\Prática.AssemblyInfoInputs.cache
+C:\Github_P\C-sharp-_Learning\POO\Prática\obj\Debug\net5.0\Prática.AssemblyInfo.cs
+C:\Github_P\C-sharp-_Learning\POO\Prática\obj\Debug\net5.0\Prática.csproj.CoreCompileInputs.cache
+C:\Github_P\C-sharp-_Learning\POO\Prática\bin\Debug\net5.0\Prática.exe
+C:\Github_P\C-sharp-_Learning\POO\Prática\bin\Debug\net5.0\Prática.deps.json
+C:\Github_P\C-sharp-_Learning\POO\Prática\bin\Debug\net5.0\Prática.runtimeconfig.json
+C:\Github_P\C-sharp-_Learning\POO\Prática\bin\Debug\net5.0\Prática.runtimeconfig.dev.json
+C:\Github_P\C-sharp-_Learning\POO\Prática\bin\Debug\net5.0\Prática.dll
+C:\Github_P\C-sharp-_Learning\POO\Prática\bin\Debug\net5.0\ref\Prática.dll
+C:\Github_P\C-sharp-_Learning\POO\Prática\bin\Debug\net5.0\Prática.pdb
+C:\Github_P\C-sharp-_Learning\POO\Prática\obj\Debug\net5.0\Prática.dll
+C:\Github_P\C-sharp-_Learning\POO\Prática\obj\Debug\net5.0\ref\Prática.dll
+C:\Github_P\C-sharp-_Learning\POO\Prática\obj\Debug\net5.0\Prática.pdb
+C:\Github_P\C-sharp-_Learning\POO\Prática\obj\Debug\net5.0\Prática.genruntimeconfig.cache

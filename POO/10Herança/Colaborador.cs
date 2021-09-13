@@ -9,7 +9,6 @@ class Colaborador : Pessoa{
         this.idade = idade;
         this.salario = salario;
 
-
         mensagemPessoa();
         mensagemColaborador();
     }
@@ -18,7 +17,6 @@ class Colaborador : Pessoa{
     private void mensagemColaborador(){
         Console.WriteLine("Salario: "+salario);
     }
-
 
 
 
