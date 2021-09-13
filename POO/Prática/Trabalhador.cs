@@ -1,6 +1,6 @@
 using System;
 
-class Trabalhador{
+class Trabalhador : Empresa{
     private int matricula;
     private string nome;
     private double salario;
@@ -11,7 +11,6 @@ class Trabalhador{
         this.nome = nome;
         this.salario = salario;
     }
-
     public double Salario{
         get{return salario;}
         set{salario = value;}
@@ -20,13 +19,15 @@ class Trabalhador{
         get{return nome;}
         set{nome = value;}
     }
-
     public int Matricula{
         get{return matricula;}
         set{matricula = value;}
     }
     public void aumento(){
-        Salario = ((Salario * 10)/100) + Salario;
+        if(gstotalProdutos > 50){
+            Salario = ((Salario * 10)/100) + Salario;
+        }
+        
     }
 
 
