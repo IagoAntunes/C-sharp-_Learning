@@ -1,0 +1,16 @@
+C:\Github_P\C-sharp-_Learning\apagar\obj\Debug\net5.0\apagar.csproj.AssemblyReference.cache
+C:\Github_P\C-sharp-_Learning\apagar\obj\Debug\net5.0\apagar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github_P\C-sharp-_Learning\apagar\obj\Debug\net5.0\apagar.AssemblyInfoInputs.cache
+C:\Github_P\C-sharp-_Learning\apagar\obj\Debug\net5.0\apagar.AssemblyInfo.cs
+C:\Github_P\C-sharp-_Learning\apagar\obj\Debug\net5.0\apagar.csproj.CoreCompileInputs.cache
+C:\Github_P\C-sharp-_Learning\apagar\bin\Debug\net5.0\apagar.exe
+C:\Github_P\C-sharp-_Learning\apagar\bin\Debug\net5.0\apagar.deps.json
+C:\Github_P\C-sharp-_Learning\apagar\bin\Debug\net5.0\apagar.runtimeconfig.json
+C:\Github_P\C-sharp-_Learning\apagar\bin\Debug\net5.0\apagar.runtimeconfig.dev.json
+C:\Github_P\C-sharp-_Learning\apagar\bin\Debug\net5.0\apagar.dll
+C:\Github_P\C-sharp-_Learning\apagar\bin\Debug\net5.0\ref\apagar.dll
+C:\Github_P\C-sharp-_Learning\apagar\bin\Debug\net5.0\apagar.pdb
+C:\Github_P\C-sharp-_Learning\apagar\obj\Debug\net5.0\apagar.dll
+C:\Github_P\C-sharp-_Learning\apagar\obj\Debug\net5.0\ref\apagar.dll
+C:\Github_P\C-sharp-_Learning\apagar\obj\Debug\net5.0\apagar.pdb
+C:\Github_P\C-sharp-_Learning\apagar\obj\Debug\net5.0\apagar.genruntimeconfig.cache
