@@ -1,14 +1,8 @@
 using System;
-
-
-
 class Aluno{
-
     //Atributos
     public string nome;
-    public int nota1, nota2;
-
-
+    public Double nota1, nota2;
     public Double media(){
         return (nota1 + nota2)/2;
     }
@@ -16,18 +10,8 @@ class Aluno{
         return media>=7 ?"aprovado":"reprovado";
     }
     public void mensagem(){
-        double obterMedia = media();
-        string obterSituacao = situacao(obterMedia);
-        
-
-
-        Console.WriteLine(nome+" esta "+obterSituacao+" com media "+obterMedia);
+        //double obterMedia = media();
+        //string obterSituacao = situacao(obterMedia);
+        Console.WriteLine(nome+" esta "+situacao(media())+" com media "+media());
     }
-
-
-
-
-
-
-
 }

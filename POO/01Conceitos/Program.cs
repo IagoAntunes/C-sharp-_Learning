@@ -10,11 +10,8 @@ namespace C_sharp__Learning
             p.nome = "Pedro";
             p.idade = 17;
             
-            p.Mensagem();
+            Console.WriteLine(p.Mensagem());
 
-
-            
-            
         }
     }
 }

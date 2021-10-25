@@ -7,7 +7,7 @@ namespace _02Metodos
         static void Main(string[] args)
         {
             Pessoa pessoa = new Pessoa();
-            pessoa.apresentar(23);
+            pessoa.apresentar("Joao",18);
 
             //Console.WriteLine("Hello World!");
         }
