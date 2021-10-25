@@ -5,5 +5,6 @@ class Pessoa{
         get{return nome;}
         set{nome = value;}
     }
+    public int idade{get;set;}
 
 }

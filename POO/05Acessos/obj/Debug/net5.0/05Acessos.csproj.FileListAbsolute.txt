@@ -1,0 +1,16 @@
+C:\Github_P\C-sharp-_Learning\POO\05Acessos\obj\Debug\net5.0\05Acessos.csproj.AssemblyReference.cache
+C:\Github_P\C-sharp-_Learning\POO\05Acessos\obj\Debug\net5.0\05Acessos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github_P\C-sharp-_Learning\POO\05Acessos\obj\Debug\net5.0\05Acessos.AssemblyInfoInputs.cache
+C:\Github_P\C-sharp-_Learning\POO\05Acessos\obj\Debug\net5.0\05Acessos.AssemblyInfo.cs
+C:\Github_P\C-sharp-_Learning\POO\05Acessos\obj\Debug\net5.0\05Acessos.csproj.CoreCompileInputs.cache
+C:\Github_P\C-sharp-_Learning\POO\05Acessos\bin\Debug\net5.0\05Acessos.exe
+C:\Github_P\C-sharp-_Learning\POO\05Acessos\bin\Debug\net5.0\05Acessos.deps.json
+C:\Github_P\C-sharp-_Learning\POO\05Acessos\bin\Debug\net5.0\05Acessos.runtimeconfig.json
+C:\Github_P\C-sharp-_Learning\POO\05Acessos\bin\Debug\net5.0\05Acessos.runtimeconfig.dev.json
+C:\Github_P\C-sharp-_Learning\POO\05Acessos\bin\Debug\net5.0\05Acessos.dll
+C:\Github_P\C-sharp-_Learning\POO\05Acessos\bin\Debug\net5.0\ref\05Acessos.dll
+C:\Github_P\C-sharp-_Learning\POO\05Acessos\bin\Debug\net5.0\05Acessos.pdb
+C:\Github_P\C-sharp-_Learning\POO\05Acessos\obj\Debug\net5.0\05Acessos.dll
+C:\Github_P\C-sharp-_Learning\POO\05Acessos\obj\Debug\net5.0\ref\05Acessos.dll
+C:\Github_P\C-sharp-_Learning\POO\05Acessos\obj\Debug\net5.0\05Acessos.pdb
+C:\Github_P\C-sharp-_Learning\POO\05Acessos\obj\Debug\net5.0\05Acessos.genruntimeconfig.cache

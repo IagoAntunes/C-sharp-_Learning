@@ -9,7 +9,14 @@ namespace _08GetSet
             Pessoa pessoa = new Pessoa();
 
             pessoa.Nome = "ranfal";
-            Console.WriteLine("{0}",pessoa.Nome);
+            pessoa.idade = 5;
+        
+            Console.WriteLine("{0} e nota = {1}",pessoa.Nome,pessoa.idade);
+            
+            
+    
+
+
 
         }
     }

@@ -1,0 +1,5 @@
+C:\Github_P\C-sharp-_Learning\POO\07Construtor\obj\Debug\net5.0\07Construtor.csproj.AssemblyReference.cache
+C:\Github_P\C-sharp-_Learning\POO\07Construtor\obj\Debug\net5.0\07Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github_P\C-sharp-_Learning\POO\07Construtor\obj\Debug\net5.0\07Construtor.AssemblyInfoInputs.cache
+C:\Github_P\C-sharp-_Learning\POO\07Construtor\obj\Debug\net5.0\07Construtor.AssemblyInfo.cs
+C:\Github_P\C-sharp-_Learning\POO\07Construtor\obj\Debug\net5.0\07Construtor.csproj.CoreCompileInputs.cache
