@@ -7,5 +7,4 @@
             this.nome = nome;
             this.code = code;
         }
-
     }

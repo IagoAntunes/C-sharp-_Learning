@@ -13,7 +13,6 @@ namespace _08GetSet
         
             Console.WriteLine("{0} e nota = {1}",pessoa.Nome,pessoa.idade);
             
-            
     
 
 
